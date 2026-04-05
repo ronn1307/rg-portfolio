@@ -9975,17 +9975,14 @@ function BlogPost({ slug }) {
   );
 }
 
-// ─── CLAP BUTTON (Medium-style with custom icon) ────────────
+// ─── CLAP BUTTON (Medium-style with custom icon + Cloudflare KV persistence) ────────────
 function ClapButton({ slug, compact = false }) {
   const t = useTheme();
   const isDark = t === themes.dark;
   const { reduced } = useMotion();
   const accentRgb = isDark ? "232,122,79" : "208,96,58";
 
-  const storageKey = `claps_${slug}`;
-  const [count, setCount] = useState(() => {
-    try { return parseInt(localStorage.getItem(storageKey)) || 0; } catch { return 0; }
-  });
+  const [count, setCount] = useState(0);
   const [sessionClaps, setSessionClaps] = useState(0);
   const [isPressed, setIsPressed] = useState(false);
   const [particles, setParticles] = useState([]);
@@ -9994,15 +9991,38 @@ function ClapButton({ slug, compact = false }) {
   const holdTimerRef = useRef(null);
   const totalTimerRef = useRef(null);
   const particleIdRef = useRef(0);
+  const pendingClapsRef = useRef(0);
+  const flushTimerRef = useRef(null);
 
+  // Fetch the current clap count from the API on mount
   useEffect(() => {
-    try { localStorage.setItem(storageKey, count.toString()); } catch {}
-  }, [count, storageKey]);
+    if (!slug) return;
+    fetch(`/api/claps?slug=${encodeURIComponent(slug)}`)
+      .then((r) => r.json())
+      .then((data) => { if (data.claps != null) setCount(data.claps); })
+      .catch(() => {});
+  }, [slug]);
+
+  // Flush pending claps to the API (debounced — batches rapid clicks into one request)
+  const flushClaps = useCallback(() => {
+    const pending = pendingClapsRef.current;
+    if (pending <= 0 || !slug) return;
+    pendingClapsRef.current = 0;
+    fetch("/api/claps", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ slug, count: pending }),
+    })
+      .then((r) => r.json())
+      .then((data) => { if (data.claps != null) setCount(data.claps); })
+      .catch(() => {});
+  }, [slug]);
 
   const addClap = useCallback(() => {
     if (sessionClaps >= maxClaps) return;
     setCount((c) => c + 1);
     setSessionClaps((s) => s + 1);
+    pendingClapsRef.current += 1;
     setIsPressed(true);
     setTimeout(() => setIsPressed(false), 150);
 
@@ -10015,7 +10035,11 @@ function ClapButton({ slug, compact = false }) {
     setShowTotal(true);
     clearTimeout(totalTimerRef.current);
     totalTimerRef.current = setTimeout(() => setShowTotal(false), 1500);
-  }, [sessionClaps]);
+
+    // Debounce: flush to API 800ms after the last clap
+    clearTimeout(flushTimerRef.current);
+    flushTimerRef.current = setTimeout(flushClaps, 800);
+  }, [sessionClaps, flushClaps]);
 
   const startHold = useCallback(() => {
     addClap();
@@ -10024,12 +10048,16 @@ function ClapButton({ slug, compact = false }) {
 
   const stopHold = useCallback(() => {
     clearInterval(holdTimerRef.current);
-  }, []);
+    // Flush when user releases hold
+    clearTimeout(flushTimerRef.current);
+    flushTimerRef.current = setTimeout(flushClaps, 300);
+  }, [flushClaps]);
 
   useEffect(() => {
     return () => {
       clearInterval(holdTimerRef.current);
       clearTimeout(totalTimerRef.current);
+      clearTimeout(flushTimerRef.current);
     };
   }, []);
 
