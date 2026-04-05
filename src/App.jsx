@@ -50,21 +50,31 @@ const themes = {
   },
 };
 
-// ─── Route Context (simple hash router) ──────────────────────
+// ─── Route Context (clean URL router using History API) ──────────────────────
 const RouteContext = createContext();
 const useRoute = () => useContext(RouteContext);
 
 function Router({ children }) {
-  const [path, setPath] = useState(window.location.hash.slice(1) || "/");
+  const [path, setPath] = useState(() => {
+    // Support legacy hash URLs — redirect /#/path to /path
+    const hash = window.location.hash;
+    if (hash && hash.startsWith("#/")) {
+      const cleanPath = hash.slice(1);
+      window.history.replaceState(null, "", cleanPath);
+      return cleanPath;
+    }
+    return window.location.pathname || "/";
+  });
 
   useEffect(() => {
-    const onHash = () => setPath(window.location.hash.slice(1) || "/");
-    window.addEventListener("hashchange", onHash);
-    return () => window.removeEventListener("hashchange", onHash);
+    const onPopState = () => setPath(window.location.pathname || "/");
+    window.addEventListener("popstate", onPopState);
+    return () => window.removeEventListener("popstate", onPopState);
   }, []);
 
   const navigate = useCallback((to) => {
-    window.location.hash = to;
+    window.history.pushState(null, "", to);
+    setPath(to);
     window.scrollTo({ top: 0, behavior: "smooth" });
   }, []);
 
