@@ -1,0 +1,741 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.1" filter="url(#filter0_f_187_8052)">
+<path d="M65.027 58.4412C66.9981 59.415 66.7293 62.3064 64.6126 62.899L46.3518 60.1001C45.7357 60.2723 45.0768 60.1918 44.5209 59.8753L34.0601 53.9144L43.4984 49.4951L65.027 58.4412Z" fill="url(#paint0_linear_187_8052)"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M46.9844 21.1626C46.4838 20.3045 45.8164 19.6132 45.1251 19.208L33.5406 12.5338C32.8494 12.1286 32.1819 12.0571 31.6814 12.3431C31.6814 12.3431 31.6575 12.3431 31.6337 12.3669L30.275 13.1297L31.014 13.225C30.9424 13.4634 30.8948 13.7256 30.8948 14.0355V47.4542C30.8948 48.2646 31.1808 49.1942 31.6575 50.0285C32.1581 50.8866 32.8255 51.5779 33.5168 51.9831L45.1013 58.6573C45.3158 58.7765 45.5304 58.8718 45.7449 58.9434L45.5065 59.6823L46.9367 58.848C47.4373 58.562 47.6995 57.9661 47.6995 57.1556V23.7369C47.6995 22.9265 47.4134 21.9969 46.9367 21.1626H46.9844Z" fill="url(#paint1_linear_187_8052)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M29.4875 14.8443C29.4875 14.0339 29.7736 13.438 30.2503 13.1519C30.7509 12.8659 31.4183 12.9374 32.1096 13.3426L43.6941 20.0168C44.3853 20.4221 45.0528 21.1133 45.5533 21.9714C46.0539 22.8295 46.3161 23.7592 46.3161 24.5458V57.9645C46.3161 58.7749 46.03 59.3708 45.5533 59.6569C45.0528 59.9429 44.3853 59.8714 43.6941 59.4662L32.1096 52.792C31.4183 52.3867 30.7509 51.6955 30.2503 50.8374C29.7497 49.9793 29.4875 49.0496 29.4875 48.263V14.8443Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M29.534 14.9371C29.534 14.1267 29.82 13.5308 30.2968 13.2447C30.7973 12.9587 31.4647 13.0302 32.156 13.4354L43.6452 20.0619C44.3364 20.4672 45.0039 21.1584 45.5044 22.0165C46.005 22.8746 46.2672 23.8043 46.2672 24.5909V57.8666C46.2672 58.677 45.9811 59.2729 45.5044 59.5589C45.0039 59.845 44.3364 59.7735 43.6452 59.3682L32.156 52.7417C31.4647 52.3365 30.7973 51.6452 30.2968 50.7871C29.7962 49.929 29.534 48.9994 29.534 48.2128V14.9371Z" fill="#A6A5A0"/>
+<path opacity="0.43" fill-rule="evenodd" clip-rule="evenodd" d="M46.269 25.5743L42.9796 23.6674C42.9796 23.6674 42.9081 23.5959 42.9081 23.5482V19.6152L43.0511 19.6867V23.5244L46.269 25.3837V25.5505V25.5743Z" fill="#35342F"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M29.6542 15.1803C29.6542 14.3698 29.9403 13.7739 30.417 13.4879C30.9176 13.2018 31.585 13.2733 32.2762 13.6786L43.5271 20.1859C44.2183 20.5911 44.8857 21.2824 45.3863 22.1405C45.8869 22.9986 46.1491 23.9282 46.1491 24.7148V57.6568C46.1491 58.4673 45.863 59.0632 45.3863 59.3492C44.8857 59.6352 44.2183 59.5637 43.5271 59.1585L32.2762 52.6512C31.585 52.2459 30.9176 51.5547 30.417 50.6966C29.9164 49.8385 29.6542 48.9088 29.6542 48.1222V15.1803Z" fill="#35342F"/>
+<path opacity="0.43" fill-rule="evenodd" clip-rule="evenodd" d="M29.534 47.2405L32.8234 49.1474C32.8234 49.1474 32.8949 49.2189 32.8949 49.2666V53.1996L32.7519 53.1281V49.2904L29.534 47.4312V47.2643V47.2405Z" fill="#35342F"/>
+<path opacity="0.43" fill-rule="evenodd" clip-rule="evenodd" d="M46.2699 56.7244L32.993 49.0491V49.2159L46.2699 56.8913V56.7244Z" fill="#35342F"/>
+<path opacity="0.43" fill-rule="evenodd" clip-rule="evenodd" d="M42.8109 23.4525L29.534 15.801V15.944L42.8109 23.6194V23.4525Z" fill="#35342F"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M29.7991 15.4181C29.7991 14.6076 30.0851 14.0117 30.5618 13.7257C31.0624 13.4396 31.7298 13.5111 32.4211 13.9164L43.362 20.233C44.0533 20.6382 44.7207 21.3295 45.2213 22.1876C45.7218 23.0457 45.984 23.9753 45.984 24.7858V57.3702C45.984 58.1806 45.698 58.7766 45.2213 59.0626C44.7207 59.3486 44.0533 59.2771 43.362 58.8719L32.4211 52.5552C31.7298 52.15 31.0624 51.4588 30.5618 50.6007C30.0613 49.7425 29.7991 48.8129 29.7991 48.0025V15.4181Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.4315 20.6849L32.3714 14.2967C31.2034 13.6055 30.2261 14.1775 30.2261 15.5362V48.3828C30.2261 49.7415 31.1796 51.4101 32.3714 52.0775L43.4315 58.4657C44.5995 59.1569 45.5768 58.5848 45.5768 57.2262V24.3795C45.5768 23.0209 44.6234 21.3523 43.4315 20.6849Z" fill="white"/>
+<mask id="mask0_187_8052" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="30" y="14" width="16" height="45">
+<path d="M43.4332 20.6834L32.3731 14.2953C31.2051 13.604 30.2278 14.1761 30.2278 15.5348V48.3814C30.2278 49.7401 31.1813 51.4086 32.3731 52.076L43.4332 58.4642C44.6012 59.1555 45.5785 58.5834 45.5785 57.2247V24.3781C45.5785 23.0194 44.6251 21.3508 43.4332 20.6834Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_187_8052)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.8336 13.4151L39.1901 13.0337V13.8918L39.8336 14.2732V13.4151Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.1205 14.1556L40.4769 13.7742V14.6323L41.1205 15.0137V14.1556Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.4101 14.8939L41.7665 14.5364V15.3945L42.4101 15.752V14.8939Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.7188 15.6317L43.0752 15.2742V16.1323L43.7188 16.4898V15.6317Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.0084 16.3931L44.3648 16.0117V16.8698L45.0084 17.2512V16.3931Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.2584 12.7742L37.9019 13.1556V14.0137L37.2584 13.6323V12.7742Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.548 13.5144L39.1916 13.8958V14.7539L38.548 14.3964V13.5144Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.8348 14.2712L40.4784 14.6288V15.4869L39.8348 15.1294V14.2712Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.1245 15.0117L41.768 15.3931V16.2512L41.1245 15.8698V15.0117Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.4086 15.7522L43.076 16.1336V16.9917L42.4086 16.6103V15.7522Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.72 16.4927L44.3636 16.8741V17.7322L43.72 17.3746V16.4927Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.0069 17.2522L45.6505 17.6097V18.4679L45.0069 18.1103V17.2522Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.6163 13.2712L37.2599 13.6288V14.4869L36.6163 14.1294V13.2712Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.9032 14.0117L38.5468 14.3931V15.2512L37.9032 14.8698V14.0117Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.1901 14.7522L39.8336 15.1336V15.9917L39.1901 15.6103V14.7522Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40.4769 15.4927L41.1205 15.8741V16.7322L40.4769 16.3746V15.4927Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.7665 16.2522L42.4101 16.6097V17.4679L41.7665 17.1103V16.2522Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.0752 16.9927L43.7188 17.3741V18.2322L43.0752 17.8508V16.9927Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.3648 17.7329L45.0084 18.1143V18.9724L44.3648 18.591V17.7329Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.6846 13.0117L35.3282 13.3931V14.2512L34.6846 13.8698V13.0117Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.9742 13.7522L36.6178 14.1336V14.9917L35.9742 14.6103V13.7522Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.2584 14.4927L37.9019 14.8741V15.7322L37.2584 15.3508V14.4927Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.548 15.2495L39.1916 15.6071V16.4652L38.548 16.1076V15.2495Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.8348 15.99L40.4784 16.3714V17.2295L39.8348 16.8481V15.99Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.1245 16.7302L41.768 17.1116V17.9697L41.1245 17.5883V16.7302Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.4086 17.4707L43.076 17.8521V18.7102L42.4086 18.3288V17.4707Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.72 18.2302L44.3636 18.5878V19.4459L43.72 19.0883V18.2302Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.0069 18.9707L45.6505 19.3521V20.2102L45.0069 19.8288V18.9707Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.0426 13.4844L34.6862 13.8658V14.7239L34.0426 14.3425V13.4844Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.3267 14.2495L35.9703 14.6071V15.4652L35.3267 15.1076V14.2495Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.6163 14.99L37.2599 15.3475V16.2295L36.6163 15.8481V14.99Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.9032 15.7302L38.5468 16.1116V16.9697L37.9032 16.5883V15.7302Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.1901 16.4653L39.8336 16.8467V17.7048L39.1901 17.3234V16.4653Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40.4769 17.2275L41.1205 17.5851V18.4432L40.4769 18.0857V17.2275Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.7665 17.968L42.4101 18.3256V19.2075L41.7665 18.8261V17.968Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.0752 18.7085L43.7188 19.0899V19.948L43.0752 19.5666V18.7085Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.3648 19.446L45.0084 19.8274V20.6855L44.3648 20.3042V19.446Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.0864 13.2468L32.7538 13.6044V14.4625L32.0864 14.1049V13.2468Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33.4005 13.9873L34.0441 14.3449V15.2268L33.4005 14.8454V13.9873Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.6846 14.7275L35.3282 15.1089V15.967L34.6846 15.5857V14.7275Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.9742 15.4653L36.6178 15.8467V16.7048L35.9742 16.3234V15.4653Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.2584 16.2275L37.9019 16.5851V17.4432L37.2584 17.0857V16.2275Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.548 16.968L39.1916 17.3256V18.2075L38.548 17.8261V16.968Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.8348 17.7085L40.4784 18.0899V18.948L39.8348 18.5666V17.7085Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.1245 18.4434L41.768 18.8247V19.6829L41.1245 19.3015V18.4434Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.4086 19.2056L43.076 19.5631V20.4212L42.4086 20.0637V19.2056Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.72 19.946L44.3636 20.3036V21.1855L43.72 20.8042V19.946Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.0069 20.6865L45.6505 21.0679V21.926L45.0069 21.5446V20.6865Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.1547 12.9873L30.7982 13.3449V14.203L30.1547 13.8454V12.9873Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.4443 13.7275L32.0879 14.1089V14.967L31.4443 14.5857V13.7275Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.7585 14.4626L33.4021 14.844V15.7021L32.7585 15.3208V14.4626Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.0426 15.2275L34.6862 15.5851V16.4432L34.0426 16.0857V15.2275Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.3267 15.9653L35.9703 16.3229V17.181L35.3267 16.8234V15.9653Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.6163 16.7058L37.2599 17.0872V17.9453L36.6163 17.5639V16.7058Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.9032 17.4434L38.5468 17.8247V18.6829L37.9032 18.3015V17.4434Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.1901 18.2058L39.8336 18.5634V19.4215L39.1901 19.0639V18.2058Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40.4769 18.946L41.1205 19.3036V20.1617L40.4769 19.8042V18.946Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.7665 19.6865L42.4101 20.0679V20.926L41.7665 20.5446V19.6865Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.0752 20.4214L43.7188 20.8028V21.6609L43.0752 21.2795V20.4214Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.3648 21.1865L45.0084 21.5441V22.4022L44.3648 22.0446V21.1865Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.8022 14.2031L31.4458 14.5845V15.4426L30.8022 15.0851V14.2031Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.0864 14.9653L32.7538 15.3229V16.181L32.0864 15.8234V14.9653Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33.4005 15.7058L34.0441 16.0872V16.9453L33.4005 16.5639V15.7058Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.6846 16.4434L35.3282 16.8247V17.6829L34.6846 17.3015V16.4434Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.9742 17.1812L36.6178 17.5625V18.4206L35.9742 18.0631V17.1812Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.2584 17.946L37.9019 18.3036V19.1617L37.2584 18.8042V17.946Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.548 18.6838L39.1916 19.0652V19.9233L38.548 19.542V18.6838Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.8348 19.4216L40.4784 19.803V20.6611L39.8348 20.2797V19.4216Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.1245 20.1619L41.768 20.5432V21.4014L41.1245 21.0438V20.1619Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.4086 20.9243L43.076 21.2819V22.14L42.4086 21.7824V20.9243Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.72 21.6646L44.3636 22.0459V22.904L43.72 22.5227V21.6646Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.0069 22.3997L45.6505 22.781V23.6392L45.0069 23.2578V22.3997Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.1547 14.7058L30.7982 15.0872V15.9453L30.1547 15.5639V14.7058Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.4443 15.4407L32.0879 15.8221V16.6802L31.4443 16.2988V15.4407Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.7585 16.1812L33.4021 16.5625V17.4206L32.7585 17.0631V16.1812Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.0426 16.9434L34.6862 17.3009V18.159L34.0426 17.8015V16.9434Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.3267 17.6838L35.9703 18.0652V18.9233L35.3267 18.5419V17.6838Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.6163 18.4187L37.2599 18.8001V19.6582L36.6163 19.2768V18.4187Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.9032 19.1592L38.5468 19.5406V20.3987L37.9032 20.0411V19.1592Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.1901 19.9243L39.8336 20.2819V21.14L39.1901 20.7824V19.9243Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40.4769 20.6646L41.1205 21.0459V21.904L40.4769 21.5227V20.6646Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.7665 21.3997L42.4101 21.781V22.6392L41.7665 22.2578V21.3997Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.0752 22.1401L43.7188 22.5215V23.3796L43.0752 23.0221V22.1401Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.3648 22.905L45.0084 23.2626V24.1207L44.3648 23.7631V22.905Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.8022 15.9434L31.4458 16.3009V17.159L30.8022 16.8015V15.9434Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.0864 16.6838L32.7538 17.0652V17.9233L32.0864 17.542V16.6838Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33.4005 17.4189L34.0441 17.8003V18.6584L33.4005 18.2771V17.4189Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.6846 18.1592L35.3282 18.5406V19.3987L34.6846 19.0173V18.1592Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.9742 18.9243L36.6178 19.2819V20.14L35.9742 19.7824V18.9243Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.2584 19.6648L37.9019 20.0462V20.9043L37.2584 20.5229V19.6648Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.548 20.397L39.1916 20.7784V21.6365L38.548 21.2551V20.397Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.8348 21.1375L40.4784 21.5188V22.3769L39.8348 21.9956V21.1375Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.1245 21.9023L41.768 22.2599V23.118L41.1245 22.7605V21.9023Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.4086 22.6428L43.076 23.0242V23.8823L42.4086 23.5009V22.6428Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.72 23.3777L44.3636 23.7591V24.6172L43.72 24.2358V23.3777Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.0069 24.1182L45.6505 24.4995V25.3577L45.0069 24.9763V24.1182Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.1547 16.4189L30.7982 16.8003V17.6584L30.1547 17.2771V16.4189Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.4443 17.1592L32.0879 17.5406V18.3987L31.4443 18.0173V17.1592Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.7585 17.9216L33.4021 18.2792V19.1373L32.7585 18.7797V17.9216Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.0426 18.6619L34.6862 19.0194V19.9014L34.0426 19.52V18.6619Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.3267 19.397L35.9703 19.7784V20.6365L35.3267 20.2551V19.397Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.6163 20.1375L37.2599 20.5188V21.3769L36.6163 20.9956V20.1375Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.9032 20.9023L38.5468 21.2599V22.118L37.9032 21.7605V20.9023Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.1901 21.6428L39.8336 22.0004V22.8823L39.1901 22.5009V21.6428Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40.4769 22.3777L41.1205 22.7591V23.6172L40.4769 23.2358V22.3777Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.7665 23.1182L42.4101 23.4995V24.3577L41.7665 23.9763V23.1182Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.0752 23.8804L43.7188 24.2379V25.096L43.0752 24.7385V23.8804Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.3648 24.6208L45.0084 24.9784V25.8603L44.3648 25.479V24.6208Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.8022 17.6565L31.4458 18.014V18.896L30.8022 18.5146V17.6565Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.0864 18.397L32.7538 18.7784V19.6365L32.0864 19.2551V18.397Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33.4005 19.1375L34.0441 19.5188V20.3769L33.4005 19.9956V19.1375Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.6846 19.8997L35.3282 20.2572V21.1153L34.6846 20.7578V19.8997Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.9742 20.6375L36.6178 20.995V21.8769L35.9742 21.4956V20.6375Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.2584 21.3777L37.9019 21.7591V22.6172L37.2584 22.2358V21.3777Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.548 22.1182L39.1916 22.4995V23.3577L38.548 22.9763V22.1182Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.8348 22.8804L40.4784 23.2379V24.096L39.8348 23.7385V22.8804Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.1245 23.6155L41.768 23.973V24.855L41.1245 24.4736V23.6155Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.4086 24.356L43.076 24.7373V25.5955L42.4086 25.2141V24.356Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.72 25.0962L44.3636 25.4776V26.3357L43.72 25.9543V25.0962Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.0069 25.8586L45.6505 26.2162V27.0743L45.0069 26.7168V25.8586Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.1547 18.1375L30.7982 18.5188V19.3769L30.1547 18.9956V18.1375Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.4443 18.8997L32.0879 19.2572V20.1153L31.4443 19.7578V18.8997Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.7585 19.6375L33.4021 19.995V20.8531L32.7585 20.4956V19.6375Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.0426 20.3777L34.6862 20.7591V21.6172L34.0426 21.2358V20.3777Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.3267 21.1155L35.9703 21.4969V22.355L35.3267 21.9736V21.1155Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.6163 21.8777L37.2599 22.2352V23.0933L36.6163 22.7358V21.8777Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.9032 22.6155L38.5468 22.973V23.8311L37.9032 23.4736V22.6155Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.1901 23.356L39.8336 23.7373V24.5955L39.1901 24.2141V23.356Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40.4769 24.0962L41.1205 24.4776V25.3357L40.4769 24.9543V24.0962Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.7665 24.8586L42.4101 25.2162V26.0743L41.7665 25.7168V24.8586Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.0752 25.5935L43.7188 25.9511V26.8092L43.0752 26.4516V25.5935Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.3648 26.334L45.0084 26.7154V27.5735L44.3648 27.1921V26.334Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.8022 19.375L31.4458 19.7564V20.6145L30.8022 20.2331V19.375Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.0864 20.1155L32.7538 20.4969V21.355L32.0864 20.9736V20.1155Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33.4005 20.856L34.0441 21.2373V22.0955L33.4005 21.7379V20.856Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.6846 21.6155L35.3282 21.973V22.8311L34.6846 22.4736V21.6155Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.9742 22.3533L36.6178 22.7347V23.5928L35.9742 23.2114V22.3533Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.2584 23.0935L37.9019 23.4749V24.333L37.2584 23.9516V23.0935Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.548 23.834L39.1916 24.2154V25.0735L38.548 24.7159V23.834Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.8348 24.5935L40.4784 24.9511V25.8092L39.8348 25.4516V24.5935Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.1245 25.334L41.768 25.7154V26.5735L41.1245 26.1921V25.334Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.4086 26.0745L43.076 26.4558V27.314L42.4086 26.9326V26.0745Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.72 26.8149L44.3636 27.1963V28.0544L43.72 27.6969V26.8149Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.0069 27.5715L45.6505 27.9291V28.7872L45.0069 28.4296V27.5715Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.1547 19.856L30.7982 20.2373V21.0955L30.1547 20.7379V19.856Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.4443 20.6128L32.0879 20.9703V21.8285L31.4443 21.4709V20.6128Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.7585 21.3533L33.4021 21.7347V22.5928L32.7585 22.2114V21.3533Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.0426 22.0935L34.6862 22.4749V23.333L34.0426 22.9516V22.0935Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.3267 22.834L35.9703 23.2154V24.0735L35.3267 23.7159V22.834Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.6163 23.5908L37.2599 23.9484V24.8065L36.6163 24.4489V23.5908Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.9032 24.3313L38.5468 24.7127V25.5708L37.9032 25.1894V24.3313Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.1901 25.0718L39.8336 25.4532V26.3113L39.1901 25.9299V25.0718Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40.4769 25.812L41.1205 26.1934V27.0515L40.4769 26.694V25.812Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.7665 26.5718L42.4101 26.9293V27.7874L41.7665 27.4299V26.5718Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.0752 27.312L43.7188 27.6934V28.5515L43.0752 28.1701V27.312Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.3648 28.0525L45.0084 28.4339V29.292L44.3648 28.9106V28.0525Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.8022 21.0935L31.4458 21.4749V22.333L30.8022 21.9516V21.0935Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.0864 21.8286L32.7538 22.21V23.0681L32.0864 22.6867V21.8286Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33.4005 22.5908L34.0441 22.9484V23.8065L33.4005 23.4489V22.5908Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.6846 23.3313L35.3282 23.7127V24.5708L34.6846 24.1894V23.3313Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.9742 24.0718L36.6178 24.4532V25.3113L35.9742 24.9299V24.0718Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.2584 24.8093L37.9019 25.1907V26.0488L37.2584 25.6674V24.8093Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.548 25.5718L39.1916 25.9293V26.7874L38.548 26.4299V25.5718Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.8348 26.3093L40.4784 26.6907V27.5488L39.8348 27.1674V26.3093Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.1245 27.0498L41.768 27.4312V28.2893L41.1245 27.9079V27.0498Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.4086 27.7876L43.076 28.169V29.0271L42.4086 28.6457V27.7876Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.72 28.5498L44.3636 28.9074V29.7655L43.72 29.4079V28.5498Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.0069 29.2903L45.6505 29.6717V30.5298L45.0069 30.1484V29.2903Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.1547 21.5908L30.7982 21.9484V22.8065L30.1547 22.4489V21.5908Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.4443 22.3313L32.0879 22.6888V23.5708L31.4443 23.1894V22.3313Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.7585 23.0718L33.4021 23.4532V24.3113L32.7585 23.9299V23.0718Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.0426 23.8066L34.6862 24.188V25.0461L34.0426 24.6648V23.8066Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.3267 24.5718L35.9703 24.9293V25.7874L35.3267 25.4299V24.5718Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.6163 25.3093L37.2599 25.6669V26.5488L36.6163 26.1674V25.3093Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.9032 26.0498L38.5468 26.4312V27.2893L37.9032 26.9079V26.0498Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.1901 26.7876L39.8336 27.169V28.0271L39.1901 27.6457V26.7876Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40.4769 27.5498L41.1205 27.9074V28.7655L40.4769 28.4079V27.5498Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.7665 28.2903L42.4101 28.6478V29.5298L41.7665 29.1484V28.2903Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.0752 29.0308L43.7188 29.4121V30.2703L43.0752 29.8889V29.0308Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.3648 29.7656L45.0084 30.147V31.0051L44.3648 30.6237V29.7656Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.8022 22.8066L31.4458 23.188V24.0461L30.8022 23.6648V22.8066Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.0864 23.5691L32.7538 23.9266V24.7848L32.0864 24.4272V23.5691Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33.4005 24.3093L34.0441 24.6669V25.5488L33.4005 25.1674V24.3093Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.6846 25.0498L35.3282 25.4312V26.2893L34.6846 25.9079V25.0498Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.9742 25.7849L36.6178 26.1663V27.0244L35.9742 26.643V25.7849Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.2584 26.5498L37.9019 26.9074V27.7655L37.2584 27.4079V26.5498Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.548 27.2903L39.1916 27.6478V28.5298L38.548 28.1484V27.2903Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.8348 28.0308L40.4784 28.4121V29.2703L39.8348 28.8889V28.0308Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.1245 28.7629L41.768 29.1443V30.0024L41.1245 29.6211V28.7629Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.4086 29.5278L43.076 29.8854V30.7435L42.4086 30.3859V29.5278Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.72 30.2683L44.3636 30.6259V31.5078L43.72 31.1264V30.2683Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.0069 31.0088L45.6505 31.3902V32.2483L45.0069 31.8669V31.0088Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.1547 23.3093L30.7982 23.6669V24.5488L30.1547 24.1674V23.3093Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.4443 24.0498L32.0879 24.4312V25.2893L31.4443 24.9079V24.0498Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.7585 24.7849L33.4021 25.1663V26.0244L32.7585 25.643V24.7849Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.0426 25.5498L34.6862 25.9074V26.7655L34.0426 26.4079V25.5498Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.3267 26.2876L35.9703 26.6451V27.5033L35.3267 27.1457V26.2876Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.6163 27.0278L37.2599 27.4092V28.2673L36.6163 27.8859V27.0278Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.9032 27.7629L38.5468 28.1443V29.0024L37.9032 28.6211V27.7629Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.1901 28.5278L39.8336 28.8854V29.7435L39.1901 29.3859V28.5278Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40.4769 29.2683L41.1205 29.6259V30.484L40.4769 30.1264V29.2683Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.7665 30.0088L42.4101 30.3902V31.2483L41.7665 30.8669V30.0088Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.0752 30.7437L43.7188 31.125V31.9831L43.0752 31.6018V30.7437Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.3648 31.5061L45.0084 31.8637V32.7218L44.3648 32.3642V31.5061Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.8022 24.5471L31.4458 24.9047V25.7628L30.8022 25.4052V24.5471Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.0864 25.2876L32.7538 25.6451V26.5033L32.0864 26.1457V25.2876Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33.4005 26.0281L34.0441 26.4095V27.2676L33.4005 26.8862V26.0281Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.6846 26.7629L35.3282 27.1443V28.0024L34.6846 27.6211V26.7629Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.9742 27.5034L36.6178 27.8848V28.7429L35.9742 28.3854V27.5034Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.2584 28.2656L37.9019 28.6232V29.4813L37.2584 29.1237V28.2656Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.548 29.0061L39.1916 29.3875V30.2456L38.548 29.8642V29.0061Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.8348 29.7437L40.4784 30.125V30.9831L39.8348 30.6018V29.7437Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.1245 30.4841L41.768 30.8655V31.7236L41.1245 31.3661V30.4841Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.4086 31.2463L43.076 31.6039V32.462L42.4086 32.1044V31.2463Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.72 31.9868L44.3636 32.3682V33.2263L43.72 32.8449V31.9868Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.0069 32.7219L45.6505 33.1033V33.9614L45.0069 33.58V32.7219Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.1547 25.0281L30.7982 25.4095V26.2676L30.1547 25.8862V25.0281Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.4443 25.7629L32.0879 26.1443V27.0024L31.4443 26.6211V25.7629Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.7585 26.5034L33.4021 26.8848V27.7429L32.7585 27.3854V26.5034Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.0426 27.2656L34.6862 27.6232V28.4813L34.0426 28.1237V27.2656Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.3267 28.0061L35.9703 28.3875V29.2456L35.3267 28.8642V28.0061Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.6163 28.7437L37.2599 29.125V29.9831L36.6163 29.6018V28.7437Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.9032 29.4841L38.5468 29.8655V30.7236L37.9032 30.3661V29.4841Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.1901 30.2437L39.8336 30.6012V31.4593L39.1901 31.1018V30.2437Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40.4769 30.9841L41.1205 31.3655V32.2236L40.4769 31.8422V30.9841Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.7665 31.7219L42.4101 32.1033V32.9614L41.7665 32.58V31.7219Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.0752 32.4622L43.7188 32.8435V33.7017L43.0752 33.3441V32.4622Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.3648 33.2246L45.0084 33.5822V34.4403L44.3648 34.0827V33.2246Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.8022 26.2656L31.4458 26.6232V27.4813L30.8022 27.1237V26.2656Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.0864 27.0061L32.7538 27.3875V28.2456L32.0864 27.8642V27.0061Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33.4005 27.741L34.0441 28.1223V28.9805L33.4005 28.5991V27.741Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.6846 28.4814L35.3282 28.8628V29.7209L34.6846 29.3634V28.4814Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.9742 29.2437L36.6178 29.6012V30.4593L35.9742 30.1018V29.2437Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.2584 29.9841L37.9019 30.3655V31.2236L37.2584 30.8422V29.9841Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.548 30.7219L39.1916 31.1033V31.9614L38.548 31.58V30.7219Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.8348 31.4595L40.4784 31.8409V32.699L39.8348 32.3176V31.4595Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.1245 32.2246L41.768 32.5822V33.4403L41.1245 33.0827V32.2246Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.4086 32.9622L43.076 33.3435V34.2017L42.4086 33.8203V32.9622Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.72 33.7L44.3636 34.0813V34.9394L43.72 34.5581V33.7Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.0069 34.4404L45.6505 34.8218V35.6799L45.0069 35.2985V34.4404Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.1547 26.741L30.7982 27.1223V27.9805L30.1547 27.5991V26.741Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.4443 27.4814L32.0879 27.8628V28.7209L31.4443 28.3396V27.4814Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.7585 28.2437L33.4021 28.6012V29.4593L32.7585 29.1018V28.2437Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.0426 28.9788L34.6862 29.3601V30.2183L34.0426 29.8369V28.9788Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.3267 29.7192L35.9703 30.1006V30.9587L35.3267 30.5773V29.7192Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.6163 30.4595L37.2599 30.8409V31.699L36.6163 31.3176V30.4595Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.9032 31.2246L38.5468 31.5822V32.4403L37.9032 32.0827V31.2246Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.1901 31.9595L39.8336 32.317V33.199L39.1901 32.8176V31.9595Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40.4769 32.6973L41.1205 33.0786V33.9368L40.4769 33.5554V32.6973Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.7665 33.4377L42.4101 33.8191V34.6772L41.7665 34.2959V33.4377Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.0752 34.2026L43.7188 34.5602V35.4183L43.0752 35.0607V34.2026Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.3648 34.9377L45.0084 35.2953V36.1772L44.3648 35.7959V34.9377Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.8022 27.9788L31.4458 28.3363V29.2183L30.8022 28.8369V27.9788Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.0864 28.7192L32.7538 29.1006V29.9587L32.0864 29.5774V28.7192Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33.4005 29.4597L34.0441 29.8411V30.6992L33.4005 30.3178V29.4597Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.6846 30.2219L35.3282 30.5795V31.4376L34.6846 31.08V30.2219Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.9742 30.9568L36.6178 31.3143V32.1963L35.9742 31.8149V30.9568Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.2584 31.6973L37.9019 32.0786V32.9368L37.2584 32.5554V31.6973Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.548 32.4377L39.1916 32.8191V33.6772L38.548 33.2959V32.4377Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.8348 33.2026L40.4784 33.5602V34.4183L39.8348 34.0607V33.2026Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.1245 33.9377L41.768 34.2953V35.1772L41.1245 34.7959V33.9377Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.4086 34.6753L43.076 35.0567V35.9148L42.4086 35.5334V34.6753Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.72 35.4158L44.3636 35.7972V36.6553L43.72 36.2739V35.4158Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.0069 36.1809L45.6505 36.5385V37.3966L45.0069 37.039V36.1809Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.1547 28.4568L30.7982 28.8382V29.6963L30.1547 29.3149V28.4568Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.4443 29.2219L32.0879 29.5795V30.4376L31.4443 30.08V29.2219Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.7585 29.9568L33.4021 30.3143V31.1963L32.7585 30.8149V29.9568Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.0426 30.6973L34.6862 31.0786V31.9368L34.0426 31.5554V30.6973Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.3267 31.4377L35.9703 31.8191V32.6772L35.3267 32.2959V31.4377Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.6163 32.2L37.2599 32.5575V33.4156L36.6163 33.0581V32.2Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.9032 32.9351L38.5468 33.2926V34.1507L37.9032 33.7932V32.9351Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.1901 33.6753L39.8336 34.0567V34.9148L39.1901 34.5334V33.6753Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40.4769 34.4158L41.1205 34.7972V35.6553L40.4769 35.2739V34.4158Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.7665 35.1809L42.4101 35.5385V36.3966L41.7665 36.039V35.1809Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.0752 35.9158L43.7188 36.2733V37.1314L43.0752 36.7739V35.9158Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.3648 36.6562L45.0084 37.0376V37.8957L44.3648 37.5144V36.6562Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.8022 29.6946L31.4458 30.076V30.9341L30.8022 30.5527V29.6946Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.0864 30.4351L32.7538 30.8164V31.6746L32.0864 31.2932V30.4351Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33.4005 31.2L34.0441 31.5575V32.4156L33.4005 32.0581V31.2Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.6846 31.9351L35.3282 32.2926V33.1507L34.6846 32.7932V31.9351Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.9742 32.6753L36.6178 33.0567V33.9148L35.9742 33.5334V32.6753Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.2584 33.4158L37.9019 33.7972V34.6553L37.2584 34.2739V33.4158Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.548 34.1562L39.1916 34.5376V35.3957L38.548 35.0382V34.1562Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.8348 34.9158L40.4784 35.2733V36.1314L39.8348 35.7739V34.9158Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.1245 35.6562L41.768 36.0376V36.8957L41.1245 36.5144V35.6562Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.4086 36.3967L43.076 36.7781V37.6362L42.4086 37.2548V36.3967Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.72 37.137L44.3636 37.5183V38.3765L43.72 38.0189V37.137Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.0069 37.8938L45.6505 38.2513V39.1095L45.0069 38.7519V37.8938Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.1547 30.1699L30.7982 30.5513V31.4094L30.1547 31.0519V30.1699Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.4443 30.9351L32.0879 31.2926V32.1507L31.4443 31.7932V30.9351Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.7585 31.6753L33.4021 32.0567V32.9148L32.7585 32.5334V31.6753Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.0426 32.4158L34.6862 32.7972V33.6553L34.0426 33.2739V32.4158Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.3267 33.1509L35.9703 33.5323V34.3904L35.3267 34.0328V33.1509Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.6163 33.9158L37.2599 34.2733V35.1314L36.6163 34.7739V33.9158Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.9032 34.6562L38.5468 35.0376V35.8957L37.9032 35.5144V34.6562Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.1901 35.3967L39.8336 35.7781V36.6362L39.1901 36.2548V35.3967Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40.4769 36.1289L41.1205 36.5103V37.3684L40.4769 37.0109V36.1289Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.7665 36.8938L42.4101 37.2513V38.1095L41.7665 37.7519V36.8938Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.0752 37.6343L43.7188 38.0157V38.8738L43.0752 38.4924V37.6343Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.3648 38.3748L45.0084 38.7561V39.6143L44.3648 39.2329V38.3748Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.8022 31.4158L31.4458 31.7972V32.6553L30.8022 32.2739V31.4158Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.0864 32.1482L32.7538 32.5296V33.3877L32.0864 33.0301V32.1482Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33.4005 32.9131L34.0441 33.2706V34.1287L33.4005 33.7712V32.9131Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.6846 33.6536L35.3282 34.0349V34.8931L34.6846 34.5117V33.6536Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.9742 34.394L36.6178 34.7754V35.6335L35.9742 35.2522V34.394Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.2584 35.1289L37.9019 35.5103V36.3684L37.2584 35.987V35.1289Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.548 35.8938L39.1916 36.2513V37.1095L38.548 36.7519V35.8938Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.8348 36.6316L40.4784 37.013V37.8711L39.8348 37.4897V36.6316Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.1245 37.3721L41.768 37.7535V38.6116L41.1245 38.2302V37.3721Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.4086 38.1096L43.076 38.491V39.3491L42.4086 38.9677V38.1096Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.72 38.8721L44.3636 39.2296V40.0877L43.72 39.7302V38.8721Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.0069 39.6123L45.6505 39.9937V40.8518L45.0069 40.4704V39.6123Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.1547 31.9131L30.7982 32.2706V33.1287L30.1547 32.7712V31.9131Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.4443 32.6536L32.0879 33.0111V33.8931L31.4443 33.5117V32.6536Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.7585 33.394L33.4021 33.7754V34.6335L32.7585 34.2522V33.394Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.0426 34.1289L34.6862 34.5103V35.3684L34.0426 34.987V34.1289Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.3267 34.8911L35.9703 35.2487V36.1068L35.3267 35.7492V34.8911Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.6163 35.6316L37.2599 35.9891V36.8711L36.6163 36.4897V35.6316Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.9032 36.3721L38.5468 36.7535V37.6116L37.9032 37.2302V36.3721Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.1901 37.1096L39.8336 37.491V38.3491L39.1901 37.9677V37.1096Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40.4769 37.8694L41.1205 38.2269V39.085L40.4769 38.7275V37.8694Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.7665 38.6096L42.4101 38.9672V39.8491L41.7665 39.4677V38.6096Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.0752 39.3501L43.7188 39.7315V40.5896L43.0752 40.2082V39.3501Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.3648 40.0879L45.0084 40.4693V41.3274L44.3648 40.946V40.0879Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.8022 33.1289L31.4458 33.5103V34.3684L30.8022 33.987V33.1289Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.0864 33.8911L32.7538 34.2487V35.1068L32.0864 34.7492V33.8911Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33.4005 34.6316L34.0441 34.9891V35.8711L33.4005 35.4897V34.6316Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.6846 35.3721L35.3282 35.7535V36.6116L34.6846 36.2302V35.3721Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.9742 36.1069L36.6178 36.4883V37.3464L35.9742 36.965V36.1069Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.2584 36.8694L37.9019 37.2269V38.085L37.2584 37.7275V36.8694Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.548 37.6096L39.1916 37.9672V38.8491L38.548 38.4677V37.6096Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.8348 38.3501L40.4784 38.7315V39.5896L39.8348 39.2082V38.3501Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.1245 39.0879L41.768 39.4693V40.3274L41.1245 39.946V39.0879Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.4086 39.8501L43.076 40.2076V41.0658L42.4086 40.7082V39.8501Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.72 40.5906L44.3636 40.9481V41.8301L43.72 41.4487V40.5906Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.0069 41.3281L45.6505 41.7095V42.5676L45.0069 42.1862V41.3281Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.1547 33.6289L30.7982 33.9865V34.8684L30.1547 34.487V33.6289Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.4443 34.3694L32.0879 34.7508V35.6089L31.4443 35.2275V34.3694Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.7585 35.1069L33.4021 35.4883V36.3464L32.7585 35.965V35.1069Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.0426 35.8694L34.6862 36.2269V37.085L34.0426 36.7275V35.8694Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.3267 36.6099L35.9703 36.9674V37.8255L35.3267 37.468V36.6099Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.6163 37.3501L37.2599 37.7315V38.5896L36.6163 38.2082V37.3501Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.9032 38.0852L38.5468 38.4666V39.3247L37.9032 38.9433V38.0852Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.1901 38.8501L39.8336 39.2076V40.0658L39.1901 39.7082V38.8501Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40.4769 39.5879L41.1205 39.9454V40.8036L40.4769 40.446V39.5879Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.7665 40.3284L42.4101 40.7098V41.5679L41.7665 41.1865V40.3284Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.0752 41.0659L43.7188 41.4473V42.3054L43.0752 41.924V41.0659Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.3648 41.8281L45.0084 42.1857V43.0438L44.3648 42.6862V41.8281Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.8022 34.8694L31.4458 35.2269V36.085L30.8022 35.7275V34.8694Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.0864 35.6069L32.7538 35.9645V36.8226L32.0864 36.465V35.6069Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33.4005 36.3474L34.0441 36.7288V37.5869L33.4005 37.2055V36.3474Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.6846 37.0852L35.3282 37.4666V38.3247L34.6846 37.9433V37.0852Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.9742 37.8257L36.6178 38.2071V39.0652L35.9742 38.7076V37.8257Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.2584 38.5879L37.9019 38.9454V39.8036L37.2584 39.446V38.5879Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.548 39.3284L39.1916 39.7098V40.5679L38.548 40.1865V39.3284Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.8348 40.0632L40.4784 40.4446V41.3027L39.8348 40.9213V40.0632Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.1245 40.8037L41.768 41.1851V42.0432L41.1245 41.6857V40.8037Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.4086 41.5686L43.076 41.9261V42.7843L42.4086 42.4267V41.5686Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.72 42.3091L44.3636 42.6905V43.5486L43.72 43.1672V42.3091Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.0069 43.0439L45.6505 43.4253V44.2834L45.0069 43.9021V43.0439Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.1547 35.3474L30.7982 35.7288V36.5869L30.1547 36.2055V35.3474Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.4443 36.0825L32.0879 36.4639V37.322L31.4443 36.9406V36.0825Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.7585 36.8228L33.4021 37.2041V38.0622L32.7585 37.7047V36.8228Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.0426 37.5879L34.6862 37.9454V38.8036L34.0426 38.446V37.5879Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.3267 38.3284L35.9703 38.7098V39.5679L35.3267 39.1865V38.3284Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.6163 39.0632L37.2599 39.4446V40.3027L36.6163 39.9213V39.0632Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.9032 39.8037L38.5468 40.1851V41.0432L37.9032 40.6857V39.8037Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.1901 40.5686L39.8336 40.9261V41.7843L39.1901 41.4267V40.5686Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40.4769 41.3064L41.1205 41.6878V42.5459L40.4769 42.1645V41.3064Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.7665 42.0413L42.4101 42.4226V43.2808L41.7665 42.8994V42.0413Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.0752 42.7817L43.7188 43.1631V44.0212L43.0752 43.6637V42.7817Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.3648 43.5469L45.0084 43.9044V44.7625L44.3648 44.405V43.5469Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.8022 36.5879L31.4458 36.9454V37.8036L30.8022 37.446V36.5879Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.0864 37.3201L32.7538 37.7015V38.5596L32.0864 38.1782V37.3201Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33.4005 38.0605L34.0441 38.4419V39.3L33.4005 38.9187V38.0605Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.6846 38.801L35.3282 39.1824V40.0405L34.6846 39.683V38.801Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.9742 39.5659L36.6178 39.9235V40.7816L35.9742 40.424V39.5659Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.2584 40.301L37.9019 40.6824V41.5405L37.2584 41.1591V40.301Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.548 41.0413L39.1916 41.4226V42.2808L38.548 41.8994V41.0413Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.8348 41.7817L40.4784 42.1631V43.0212L39.8348 42.6398V41.7817Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.1245 42.5439L41.768 42.9015V43.7596L41.1245 43.4021V42.5439Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.4086 43.2817L43.076 43.6631V44.5212L42.4086 44.1398V43.2817Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.72 44.0222L44.3636 44.4036V45.2617L43.72 44.8803V44.0222Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.0069 44.7627L45.6505 45.1441V46.0022L45.0069 45.6208V44.7627Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.1547 37.0605L30.7982 37.4419V38.3L30.1547 37.9187V37.0605Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.4443 37.801L32.0879 38.1824V39.0405L31.4443 38.6591V37.801Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.7585 38.5659L33.4021 38.9235V39.7816L32.7585 39.424V38.5659Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.0426 39.301L34.6862 39.6824V40.5405L34.0426 40.1591V39.301Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.3267 40.0413L35.9703 40.4226V41.2808L35.3267 40.8994V40.0413Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.6163 40.7817L37.2599 41.1631V42.0212L36.6163 41.6398V40.7817Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.9032 41.5442L38.5468 41.9017V42.7598L37.9032 42.4023V41.5442Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.1901 42.2817L39.8336 42.6393V43.5212L39.1901 43.1398V42.2817Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40.4769 43.0222L41.1205 43.4036V44.2617L40.4769 43.8803V43.0222Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.7665 43.7627L42.4101 44.1441V45.0022L41.7665 44.6208V43.7627Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.0752 44.5222L43.7188 44.8798V45.7379L43.0752 45.3803V44.5222Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.3648 45.2598L45.0084 45.6173V46.4993L44.3648 46.1179V45.2598Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.8022 38.301L31.4458 38.6586V39.5405L30.8022 39.1591V38.301Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.0864 39.0415L32.7538 39.4229V40.281L32.0864 39.8996V39.0415Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33.4005 39.7817L34.0441 40.1631V41.0212L33.4005 40.6398V39.7817Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.6846 40.5442L35.3282 40.9017V41.7598L34.6846 41.4023V40.5442Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.9742 41.2791L36.6178 41.6366V42.5185L35.9742 42.1372V41.2791Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.2584 42.0195L37.9019 42.4009V43.259L37.2584 42.8776V42.0195Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.548 42.76L39.1916 43.1414V43.9995L38.548 43.6181V42.76Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.8348 43.5222L40.4784 43.8798V44.7379L39.8348 44.3803V43.5222Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.1245 44.2598L41.768 44.6173V45.4993L41.1245 45.1179V44.2598Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.4086 45.0002L43.076 45.3816V46.2397L42.4086 45.8584V45.0002Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.72 45.7407L44.3636 46.1221V46.9802L43.72 46.5988V45.7407Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.0069 46.5029L45.6505 46.8605V47.7186L45.0069 47.361V46.5029Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.1547 38.7791L30.7982 39.1604V40.0185L30.1547 39.6372V38.7791Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.4443 39.5415L32.0879 39.8991V40.7572L31.4443 40.3996V39.5415Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.7585 40.2791L33.4021 40.6366V41.5185L32.7585 41.1372V40.2791Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.0426 41.0195L34.6862 41.4009V42.259L34.0426 41.8776V41.0195Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.3267 41.76L35.9703 42.1414V42.9995L35.3267 42.6181V41.76Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.6163 42.5222L37.2599 42.8798V43.7379L36.6163 43.3803V42.5222Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.9032 43.2571L38.5468 43.6146V44.4966L37.9032 44.1152V43.2571Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.1901 43.9976L39.8336 44.3789V45.2371L39.1901 44.8557V43.9976Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40.4769 44.738L41.1205 45.1194V45.9775L40.4769 45.5962V44.738Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.7665 45.5029L42.4101 45.8605V46.7186L41.7665 46.361V45.5029Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.0752 46.238L43.7188 46.5956V47.4537L43.0752 47.0962V46.238Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.3648 46.9785L45.0084 47.3599V48.218L44.3648 47.8366V46.9785Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.8022 40.0168L31.4458 40.3982V41.2563L30.8022 40.875V40.0168Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.0864 40.7573L32.7538 41.1387V41.9968L32.0864 41.6154V40.7573Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33.4005 41.5222L34.0441 41.8798V42.7379L33.4005 42.3803V41.5222Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.6846 42.2571L35.3282 42.6146V43.4727L34.6846 43.1152V42.2571Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.9742 42.9976L36.6178 43.3789V44.2371L35.9742 43.8557V42.9976Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.2584 43.738L37.9019 44.1194V44.9775L37.2584 44.5961V43.738Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.548 44.5029L39.1916 44.8605V45.7186L38.548 45.361V44.5029Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.8348 45.2354L40.4784 45.5929V46.451L39.8348 46.0935V45.2354Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.1245 45.9756L41.768 46.357V47.2151L41.1245 46.8337V45.9756Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.4086 46.7161L43.076 47.0974V47.9556L42.4086 47.5742V46.7161Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.72 47.4539L44.3636 47.8352V48.6934L43.72 48.3358V47.4539Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.0069 48.2161L45.6505 48.5736V49.4317L45.0069 49.0742V48.2161Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.1547 40.4922L30.7982 40.8736V41.7317L30.1547 41.3741V40.4922Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.4443 41.2544L32.0879 41.6119V42.4701L31.4443 42.1125V41.2544Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.7585 41.9949L33.4021 42.3763V43.2344L32.7585 42.853V41.9949Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.0426 42.7354L34.6862 43.1167V43.9748L34.0426 43.5935V42.7354Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.3267 43.4729L35.9703 43.8543V44.7124L35.3267 44.3548V43.4729Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.6163 44.2354L37.2599 44.5929V45.451L36.6163 45.0935V44.2354Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.9032 44.9758L38.5468 45.3572V46.2153L37.9032 45.8339V44.9758Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.1901 45.7161L39.8336 46.0974V46.9556L39.1901 46.5742V45.7161Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40.4769 46.4512L41.1205 46.8326V47.6907L40.4769 47.3331V46.4512Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.7665 47.2161L42.4101 47.5736V48.4317L41.7665 48.0742V47.2161Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.0752 47.9539L43.7188 48.3352V49.1934L43.0752 48.812V47.9539Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.3648 48.6943L45.0084 49.0757V49.9338L44.3648 49.5524V48.6943Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.8022 41.7354L31.4458 42.1167V42.9748L30.8022 42.5935V41.7354Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.0864 42.4702L32.7538 42.8516V43.7097L32.0864 43.3522V42.4702Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33.4005 43.2354L34.0441 43.5929V44.451L33.4005 44.0935V43.2354Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.6846 43.9729L35.3282 44.3543V45.2124L34.6846 44.831V43.9729Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.9742 44.7134L36.6178 45.0948V45.9529L35.9742 45.5715V44.7134Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.2584 45.4512L37.9019 45.8326V46.6907L37.2584 46.3093V45.4512Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.548 46.2134L39.1916 46.5709V47.429L38.548 47.0715V46.2134Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.8348 46.9539L40.4784 47.3352V48.1934L39.8348 47.812V46.9539Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.1245 47.6943L41.768 48.0757V48.9338L41.1245 48.5524V47.6943Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.4086 48.4292L43.076 48.8106V49.6687L42.4086 49.2873V48.4292Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.72 49.1943L44.3636 49.5519V50.41L43.72 50.0524V49.1943Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.0069 49.9346L45.6505 50.316V51.1741L45.0069 50.7927V49.9346Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.1547 42.2327L30.7982 42.5902V43.4483L30.1547 43.0908V42.2327Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.4443 42.9731L32.0879 43.3545V44.2126L31.4443 43.8313V42.9731Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.7585 43.7134L33.4021 44.0948V44.9529L32.7585 44.5715V43.7134Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.0426 44.4485L34.6862 44.8299V45.688L34.0426 45.3066V44.4485Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.3267 45.2134L35.9703 45.5709V46.429L35.3267 46.0715V45.2134Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.6163 45.9539L37.2599 46.3352V47.1934L36.6163 46.812V45.9539Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.9032 46.6943L38.5468 47.0757V47.9338L37.9032 47.5524V46.6943Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.1901 47.4292L39.8336 47.8106V48.6687L39.1901 48.2873V47.4292Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40.4769 48.1943L41.1205 48.5519V49.41L40.4769 49.0524V48.1943Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.7665 48.9346L42.4101 49.2921V50.1741L41.7665 49.7927V48.9346Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.0752 49.675L43.7188 50.0564V50.9145L43.0752 50.5332V49.675Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.3648 50.4072L45.0084 50.7886V51.6467L44.3648 51.2653V50.4072Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.8022 43.4485L31.4458 43.8299V44.688L30.8022 44.3066V43.4485Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.0864 44.2134L32.7538 44.5709V45.429L32.0864 45.0715V44.2134Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33.4005 44.9539L34.0441 45.3114V46.1934L33.4005 45.812V44.9539Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.6846 45.6943L35.3282 46.0757V46.9338L34.6846 46.5524V45.6943Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.9742 46.4265L36.6178 46.8079V47.666L35.9742 47.2846V46.4265Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.2584 47.1914L37.9019 47.549V48.4071L37.2584 48.0495V47.1914Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.548 47.9319L39.1916 48.2894V49.1714L38.548 48.79V47.9319Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.8348 48.6724L40.4784 49.0537V49.9119L39.8348 49.5305V48.6724Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.1245 49.4072L41.768 49.7886V50.6467L41.1245 50.2653V49.4072Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.4086 50.1724L43.076 50.5299V51.388L42.4086 51.0305V50.1724Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.72 50.9128L44.3636 51.2704V52.1523L43.72 51.771V50.9128Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.0069 51.6504L45.6505 52.0318V52.8899L45.0069 52.5085V51.6504Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.1547 43.9512L30.7982 44.3087V45.1907L30.1547 44.8093V43.9512Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.4443 44.6917L32.0879 45.073V45.9311L31.4443 45.5498V44.6917Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.7585 45.4265L33.4021 45.8079V46.666L32.7585 46.2846V45.4265Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.0426 46.1917L34.6862 46.5492V47.4073L34.0426 47.0498V46.1917Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.3267 46.9319L35.9703 47.2894V48.1714L35.3267 47.79V46.9319Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.6163 47.6724L37.2599 48.0537V48.9119L36.6163 48.5305V47.6724Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.9032 48.4075L38.5468 48.7889V49.647L37.9032 49.2656V48.4075Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.1901 49.1697L39.8336 49.5272V50.3853L39.1901 50.0278V49.1697Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40.4769 49.9102L41.1205 50.2677V51.1258L40.4769 50.7683V49.9102Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.7665 50.6504L42.4101 51.0318V51.8899L41.7665 51.5085V50.6504Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.0752 51.3882L43.7188 51.7696V52.6277L43.0752 52.2463V51.3882Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.3648 52.1504L45.0084 52.5079V53.3661L44.3648 53.0085V52.1504Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.8022 45.1887L31.4458 45.5463V46.4044L30.8022 46.0468V45.1887Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.0864 45.9292L32.7538 46.2867V47.1449L32.0864 46.7873V45.9292Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33.4005 46.6697L34.0441 47.0511V47.9092L33.4005 47.5278V46.6697Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.6846 47.4075L35.3282 47.7889V48.647L34.6846 48.2656V47.4075Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.9742 48.1697L36.6178 48.5272V49.3853L35.9742 49.0278V48.1697Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.2584 48.9102L37.9019 49.2677V50.1258L37.2584 49.7683V48.9102Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.548 49.6504L39.1916 50.0318V50.8899L38.548 50.5085V49.6504Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.8348 50.3855L40.4784 50.7669V51.625L39.8348 51.2436V50.3855Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.1245 51.126L41.768 51.5074V52.3655L41.1245 52.0079V51.126Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.4086 51.8882L43.076 52.2457V53.1038L42.4086 52.7463V51.8882Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.72 52.6287L44.3636 53.01V53.8682L43.72 53.4868V52.6287Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.0069 53.3662L45.6505 53.7476V54.6057L45.0069 54.2243V53.3662Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.1547 45.6643L30.7982 46.0457V46.9038L30.1547 46.5224V45.6643Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.4443 46.4045L32.0879 46.7859V47.644L31.4443 47.2627V46.4045Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.7585 47.145L33.4021 47.5264V48.3845L32.7585 48.027V47.145Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.0426 47.9075L34.6862 48.265V49.1231L34.0426 48.7656V47.9075Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.3267 48.645L35.9703 49.0264V49.8845L35.3267 49.5031V48.645Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.6163 49.3855L37.2599 49.7669V50.625L36.6163 50.2436V49.3855Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.9032 50.126L38.5468 50.5074V51.3655L37.9032 51.0079V50.126Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.1901 50.8882L39.8336 51.2457V52.1038L39.1901 51.7463V50.8882Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40.4769 51.623L41.1205 52.0044V52.8625L40.4769 52.4812V51.623Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.7665 52.3635L42.4101 52.7449V53.603L41.7665 53.2216V52.3635Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.0752 53.104L43.7188 53.4854V54.3435L43.0752 53.9859V53.104Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.3648 53.8689L45.0084 54.2264V55.0846L44.3648 54.727V53.8689Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.8022 46.9075L31.4458 47.265V48.1231L30.8022 47.7656V46.9075Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.0864 47.6423L32.7538 48.0237V48.8818L32.0864 48.5004V47.6423Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33.4005 48.3828L34.0441 48.7642V49.6223L33.4005 49.2409V48.3828Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.6846 49.1233L35.3282 49.5047V50.3628L34.6846 50.0052V49.1233Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.9742 49.8882L36.6178 50.2457V51.1038L35.9742 50.7463V49.8882Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.2584 50.623L37.9019 51.0044V51.8625L37.2584 51.4812V50.623Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.548 51.3635L39.1916 51.7449V52.603L38.548 52.2216V51.3635Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.8348 52.104L40.4784 52.4854V53.3435L39.8348 52.9621V52.104Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.1245 52.8662L41.768 53.2238V54.0819L41.1245 53.7243V52.8662Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.4086 53.6013L43.076 53.9827V54.8408L42.4086 54.4594V53.6013Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.72 54.3418L44.3636 54.7232V55.5813L43.72 55.1999V54.3418Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.0069 55.082L45.6505 55.4634V56.3215L45.0069 55.9401V55.082Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.1547 47.3828L30.7982 47.7642V48.6223L30.1547 48.2409V47.3828Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.4443 48.1233L32.0879 48.5047V49.3628L31.4443 48.9814V48.1233Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.7585 48.8855L33.4021 49.243V50.1012L32.7585 49.7436V48.8855Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.0426 49.6204L34.6862 50.0017V50.8599L34.0426 50.4785V49.6204Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.3267 50.3608L35.9703 50.7422V51.6003L35.3267 51.2189V50.3608Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.6163 51.1013L37.2599 51.4827V52.3408L36.6163 51.9594V51.1013Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.9032 51.8662L38.5468 52.2238V53.0819L37.9032 52.7243V51.8662Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.1901 52.6013L39.8336 52.9589V53.8408L39.1901 53.4594V52.6013Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40.4769 53.3418L41.1205 53.7232V54.5813L40.4769 54.1999V53.3418Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.7665 54.082L42.4101 54.4634V55.3215L41.7665 54.9401V54.082Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.0752 54.8472L43.7188 55.2047V56.0628L43.0752 55.7053V54.8472Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.3648 55.582L45.0084 55.9396V56.8215L44.3648 56.4401V55.582Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.8022 48.6204L31.4458 48.9779V49.8599L30.8022 49.4785V48.6204Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.0864 49.3608L32.7538 49.7422V50.6003L32.0864 50.2189V49.3608Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33.4005 50.1013L34.0441 50.4827V51.3408L33.4005 50.9594V50.1013Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.6846 50.8662L35.3282 51.2238V52.0819L34.6846 51.7243V50.8662Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.9742 51.6013L36.6178 51.9589V52.8408L35.9742 52.4594V51.6013Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.2584 52.3389L37.9019 52.7202V53.5784L37.2584 53.197V52.3389Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.548 53.0793L39.1916 53.4607V54.3188L38.548 53.9375V53.0793Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.8348 53.8445L40.4784 54.202V55.0601L39.8348 54.7026V53.8445Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.1245 54.5793L41.768 54.9369V55.8188L41.1245 55.4375V54.5793Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.4086 55.3198L43.076 55.7012V56.5593L42.4086 56.1779V55.3198Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.72 56.0603L44.3636 56.4417V57.2998L43.72 56.9184V56.0603Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.0069 56.8225L45.6505 57.1801V58.0382L45.0069 57.6806V56.8225Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.1547 49.0986L30.7982 49.48V50.3381L30.1547 49.9567V49.0986Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.4443 49.8635L32.0879 50.2211V51.0792L31.4443 50.7216V49.8635Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.7585 50.5986L33.4021 50.9562V51.8381L32.7585 51.4567V50.5986Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.0426 51.3391L34.6862 51.7205V52.5786L34.0426 52.1972V51.3391Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.3267 52.0793L35.9703 52.4607V53.3188L35.3267 52.9375V52.0793Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.6163 52.8445L37.2599 53.202V54.0601L36.6163 53.7026V52.8445Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.9032 53.5793L38.5468 53.9369V54.8188L37.9032 54.4375V53.5793Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.1901 54.3198L39.8336 54.7012V55.5593L39.1901 55.1779V54.3198Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40.4769 55.0603L41.1205 55.4417V56.2998L40.4769 55.9184V55.0603Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.7665 55.8225L42.4101 56.1801V57.0382L41.7665 56.6806V55.8225Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.0752 56.5603L43.7188 56.9179V57.776L43.0752 57.4184V56.5603Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.3648 57.3005L45.0084 57.6819V58.54L44.3648 58.1586V57.3005Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.8022 50.3391L31.4458 50.7205V51.5786L30.8022 51.1972V50.3391Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.0864 51.0793L32.7538 51.4607V52.3188L32.0864 51.9375V51.0793Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33.4005 51.8418L34.0441 52.1993V53.0575L33.4005 52.6999V51.8418Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.6846 52.5793L35.3282 52.9369V53.795L34.6846 53.4375V52.5793Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.9742 53.3198L36.6178 53.7012V54.5593L35.9742 54.1779V53.3198Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.2584 54.0603L37.9019 54.4417V55.2998L37.2584 54.9184V54.0603Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.548 54.8225L39.1916 55.1801V56.0382L38.548 55.6806V54.8225Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.8348 55.5576L40.4784 55.9152V56.7733L39.8348 56.4157V55.5576Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.1245 56.2979L41.768 56.6792V57.5373L41.1245 57.156V56.2979Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.4086 57.0383L43.076 57.4197V58.2778L42.4086 57.8964V57.0383Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.72 57.7732L44.3636 58.1546V59.0127L43.72 58.6551V57.7732Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.0069 58.5383L45.6505 58.8959V59.754L45.0069 59.3964V58.5383Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.1547 50.8118L30.7982 51.1932V52.0513L30.1547 51.6937V50.8118Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.4443 51.5767L32.0879 51.9342V52.7923L31.4443 52.4348V51.5767Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.7585 52.3171L33.4021 52.6985V53.5566L32.7585 53.1752V52.3171Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.0426 53.0576L34.6862 53.439V54.2971L34.0426 53.9157V53.0576Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.3267 53.7925L35.9703 54.1739V55.032L35.3267 54.6744V53.7925Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.6163 54.5576L37.2599 54.9152V55.7733L36.6163 55.4157V54.5576Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.9032 55.2979L38.5468 55.6792V56.5373L37.9032 56.156V55.2979Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.1901 56.0383L39.8336 56.4197V57.2778L39.1901 56.8964V56.0383Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40.4769 56.7734L41.1205 57.1548V58.0129L40.4769 57.6554V56.7734Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.7665 57.5356L42.4101 57.8932V58.7513L41.7665 58.3938V57.5356Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.0752 58.2761L43.7188 58.6575V59.5156L43.0752 59.1342V58.2761Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.8022 52.0576L31.4458 52.439V53.2971L30.8022 52.9157V52.0576Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.0864 52.7925L32.7538 53.1739V54.032L32.0864 53.6744V52.7925Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33.4005 53.5547L34.0441 53.9122V54.7703L33.4005 54.4128V53.5547Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.6846 54.2952L35.3282 54.6765V55.5347L34.6846 55.1533V54.2952Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.9742 55.0356L36.6178 55.417V56.2751L35.9742 55.8938V55.0356Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.2584 55.7734L37.9019 56.1548V57.0129L37.2584 56.6554V55.7734Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.548 56.5356L39.1916 56.8932V57.7513L38.548 57.3938V56.5356Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.8348 57.2761L40.4784 57.6575V58.5156L39.8348 58.1342V57.2761Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.1245 58.0164L41.768 58.3977V59.2559L41.1245 58.8745V58.0164Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.4086 58.7515L43.076 59.1328V59.991L42.4086 59.6096V58.7515Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.1547 52.5549L30.7982 52.9125V53.7706L30.1547 53.413V52.5549Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.4443 53.2952L32.0879 53.6765V54.5347L31.4443 54.1533V53.2952Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.7585 54.0356L33.4021 54.417V55.2751L32.7585 54.8938V54.0356Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.0426 54.7705L34.6862 55.1519V56.01L34.0426 55.6286V54.7705Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.3267 55.533L35.9703 55.8905V56.7486L35.3267 56.3911V55.533Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.6163 56.2734L37.2599 56.6548V57.5129L36.6163 57.1316V56.2734Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.9032 57.0137L38.5468 57.3951V58.2532L37.9032 57.8718V57.0137Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.1901 57.7515L39.8336 58.1329V58.991L39.1901 58.6096V57.7515Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40.4769 58.5137L41.1205 58.8712V59.7293L40.4769 59.3718V58.5137Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.8022 53.7708L31.4458 54.1521V55.0102L30.8022 54.6289V53.7708Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.0864 54.533L32.7538 54.8905V55.7486L32.0864 55.3911V54.533Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33.4005 55.2734L34.0441 55.631V56.5129L33.4005 56.1316V55.2734Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.6846 56.0137L35.3282 56.3951V57.2532L34.6846 56.8718V56.0137Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.9742 56.7488L36.6178 57.1302V57.9883L35.9742 57.6069V56.7488Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.2584 57.5137L37.9019 57.8712V58.7293L37.2584 58.3718V57.5137Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.548 58.2542L39.1916 58.6117V59.4936L38.548 59.1123V58.2542Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.1547 54.2734L30.7982 54.631V55.5129L30.1547 55.1316V54.2734Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.4443 55.011L32.0879 55.3924V56.2505L31.4443 55.8691V55.011Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.7585 55.7488L33.4021 56.1302V56.9883L32.7585 56.6069V55.7488Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.0426 56.5137L34.6862 56.8712V57.7293L34.0426 57.3718V56.5137Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.3267 57.2515L35.9703 57.609V58.491L35.3267 58.1096V57.2515Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.6163 57.9919L37.2599 58.3733V59.2314L36.6163 58.8501V57.9919Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.9032 58.7268L38.5468 59.1082V59.9663L37.9032 59.5849V58.7268Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.4458 55.8685L30.8022 55.511V56.3691L31.4458 56.7266V55.8685Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.7538 56.609L32.0864 56.2515V57.1096L32.7538 57.4671V56.609Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.0441 57.3677L33.4005 56.9863V57.8444L34.0441 58.2258V57.3677Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.3282 58.1082L34.6846 57.7268V58.5849L35.3282 58.9663V58.1082Z" fill="#E6E7E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.6178 58.8495L35.9742 58.4919V59.3501L36.6178 59.7076V58.8495Z" fill="#E6E7E8"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.7588 18.1308L36.0165 15.9855C36.0165 15.9855 35.8973 15.8425 35.8973 15.771L39.878 18.0593C39.878 18.0593 39.8303 18.1785 39.7588 18.1308Z" fill="#161616"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.7588 18.1308L36.0165 15.9855C36.0165 15.9855 35.8973 15.8425 35.8973 15.771L39.878 18.0593C39.878 18.0593 39.8303 18.1785 39.7588 18.1308Z" fill="#A6A5A0"/>
+<mask id="mask1_187_8052" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="35" y="15" width="5" height="4">
+<path d="M35.9181 15.7698C35.9181 15.7698 35.9658 15.9366 36.0373 15.9843L39.7796 18.1296C39.7796 18.1296 39.8988 18.1296 39.8988 18.0581L35.9181 15.7698Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_187_8052)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.7573 18.1074L36.0149 15.9621C36.0149 15.9621 35.8958 15.8191 35.8958 15.7476L39.8764 18.0359C39.8764 18.0359 39.8288 18.155 39.7573 18.1074Z" fill="#161616"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M47.2241 33.2988C47.2241 33.1796 47.1288 33.0127 46.9857 32.9174L46.8666 32.8936C46.8666 32.8936 46.7474 32.9412 46.7474 33.0366V37.0173C46.7474 37.1364 46.8427 37.3033 46.9857 37.3986C47.0334 37.3986 47.0573 37.4225 47.1049 37.4463H47.2241V37.3748C47.2241 37.3748 47.2241 37.3271 47.2241 37.3033V33.3226V33.2988Z" fill="url(#paint2_linear_187_8052)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M47.0759 37.3462C46.9567 37.2747 46.8375 37.1079 46.8375 36.9649V32.9842C46.8375 32.865 46.9329 32.8173 47.0759 32.8888C47.1951 32.9603 47.3143 33.1272 47.3143 33.2702V37.2509C47.3143 37.3701 47.2189 37.4177 47.0759 37.3462Z" fill="#605F5A"/>
+<path opacity="0.43" fill-rule="evenodd" clip-rule="evenodd" d="M44.3634 18.7517L42.9332 19.5621L43.0762 19.6575L44.5064 18.8232L44.3634 18.7517Z" fill="#35342F"/>
+<path opacity="0.43" fill-rule="evenodd" clip-rule="evenodd" d="M47.7459 24.5959L46.3157 25.4064V25.5732L47.7459 24.7628V24.5959Z" fill="#35342F"/>
+<path opacity="0.43" fill-rule="evenodd" clip-rule="evenodd" d="M47.7459 55.9177L46.3157 56.7282V56.895L47.7459 56.0846V55.9177Z" fill="#35342F"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M29.8002 15.4178C29.8002 14.6074 30.0862 14.0115 30.5629 13.7254C31.0635 13.4394 31.7309 13.5109 32.4222 13.9161L43.3631 20.2328C44.0544 20.638 44.7218 21.3293 45.2224 22.1874C45.7229 23.0455 45.9851 23.9751 45.9851 24.7855V57.37C45.9851 58.1804 45.6991 58.7763 45.2224 59.0623C44.7218 59.3484 44.0544 59.2769 43.3631 58.8717L32.4222 52.555C31.7309 52.1498 31.0635 51.4585 30.5629 50.6004C30.0624 49.7423 29.8002 48.8127 29.8002 48.0022V15.4178Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.6218 20.906L36.1894 18.9276C35.7842 18.6893 35.4743 18.141 35.4743 17.6881C35.4743 17.2352 35.7842 17.0445 36.1894 17.2829L39.6218 19.2613C40.0271 19.4997 40.3369 20.0479 40.3369 20.5008C40.3369 20.9537 40.0271 21.1444 39.6218 20.906Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.6213 19.6203C39.8358 19.7395 40.0027 20.0494 40.0027 20.3116C40.0027 20.5738 39.8358 20.6691 39.6213 20.5499C39.4068 20.4308 39.2399 20.1209 39.2399 19.8587C39.2399 19.5965 39.4068 19.5011 39.6213 19.6203Z" fill="#131416"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.6224 19.7884C39.7654 19.8837 39.8846 20.0744 39.8846 20.2412C39.8846 20.4081 39.7654 20.4796 39.6224 20.4081C39.4793 20.3128 39.3602 20.1221 39.3602 19.9552C39.3602 19.7884 39.4793 19.7168 39.6224 19.7884Z" fill="#252628"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.6238 19.8352C39.743 19.9067 39.8384 20.0735 39.8384 20.2166C39.8384 20.3596 39.743 20.4311 39.6238 20.3596C39.5046 20.2881 39.4093 20.1212 39.4093 19.9782C39.4093 19.8352 39.5046 19.7637 39.6238 19.8352Z" fill="#04132A"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.6676 19.9548C39.6676 19.9548 39.7629 20.0979 39.7629 20.1932C39.7629 20.2885 39.7391 20.3839 39.6676 20.3124C39.6199 20.2647 39.5961 19.9548 39.6676 19.9548Z" fill="#002599"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.5504 19.8604C39.5504 19.8604 39.5742 19.9557 39.5742 20.0749C39.5742 20.1941 39.6457 20.3133 39.5504 20.2656C39.4551 20.2179 39.4312 20.1226 39.4312 20.0034C39.4312 19.8842 39.4312 19.8127 39.5504 19.8604Z" fill="#04132A"/>
+<g filter="url(#filter1_f_187_8052)">
+<path d="M33.4248 32.4555C33.3616 36.7484 35.8027 41.6657 38.8821 43.4544C41.9615 45.2361 44.5148 43.2089 44.5779 38.916C44.641 34.623 42.2 29.7058 39.1206 27.9171C36.0412 26.1354 33.4879 28.1626 33.4248 32.4555Z" fill="#7CAEEB"/>
+</g>
+<path d="M33.3101 46.8947C38.3842 46.8947 42.4976 42.7813 42.4976 37.7071C42.4976 32.6329 38.3842 28.5195 33.3101 28.5195C28.2359 28.5195 24.1225 32.6329 24.1225 37.7071C24.1225 42.7813 28.2359 46.8947 33.3101 46.8947Z" fill="#438BE3"/>
+<path opacity="0.3" d="M33.312 46.8908C38.3862 46.8908 42.4996 42.7774 42.4996 37.7032C42.4996 32.629 38.3862 28.5156 33.312 28.5156C28.2379 28.5156 24.1245 32.629 24.1245 37.7032C24.1245 42.7774 28.2379 46.8908 33.312 46.8908Z" fill="url(#paint3_radial_187_8052)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M29.3359 45.9876C27.9689 45.3788 27.1762 43.9773 27.1762 41.8521C27.1762 41.7028 27.1762 41.542 27.1877 41.3811C27.0958 41.3352 27.0154 41.2892 26.9235 41.2318C25.2463 40.2668 24.3273 39.0951 24.1435 37.9464C24.1435 38.0842 24.132 38.2221 24.132 38.3599C24.132 38.2221 24.132 38.0842 24.1435 37.9464C24.1435 37.9004 24.132 37.866 24.1205 37.82C24.1205 37.866 24.1205 37.9004 24.1435 37.9464C24.2239 36.7287 24.626 35.6144 25.3152 34.6609C25.1544 34.3278 25.0625 33.9832 25.0625 33.65C25.097 33.9487 25.2119 34.2589 25.3842 34.569C26.2113 33.4662 27.4175 32.5817 28.8993 31.9958C28.8764 31.881 28.8534 31.7546 28.8534 31.6282C28.8534 31.0079 29.2095 30.4335 29.8528 29.9626C29.175 29.8132 28.5777 29.8477 28.0952 30.1349C28.6351 29.7788 29.2784 29.7213 30.0136 29.8592C30.0711 29.8247 30.117 29.7902 30.1745 29.7558C30.9901 29.2848 32.0469 29.0206 33.1957 29.0091V28.5151H33.4024V29.0091C34.5397 29.0206 35.608 29.2848 36.4122 29.7558C36.4696 29.7902 36.527 29.8247 36.5845 29.8592C37.3082 29.7213 37.963 29.7788 38.5029 30.1349C38.0204 29.8362 37.4231 29.8132 36.7338 29.9626C37.3886 30.4221 37.7332 31.0079 37.7332 31.6168C37.7332 31.7431 37.7217 31.858 37.6873 31.9844C39.1692 32.5702 40.3754 33.4433 41.2025 34.5461C41.3748 34.2359 41.4896 33.9257 41.5126 33.6156C41.5126 33.9602 41.4207 34.3048 41.2599 34.638C41.9491 35.5914 42.3627 36.6942 42.4546 37.9119C42.4546 37.8774 42.4546 37.8315 42.4661 37.797C42.4661 37.8315 42.4661 37.8774 42.4546 37.9119C42.4546 38.0612 42.4661 38.2106 42.4661 38.3599C42.4661 38.2106 42.4661 38.0612 42.4546 37.9234C42.2823 39.0951 41.3633 40.2783 39.6976 41.2433C39.6057 41.3007 39.5138 41.3467 39.4219 41.3926C39.4219 41.542 39.4334 41.7028 39.4334 41.8521C39.4334 43.9773 38.6407 45.3903 37.2737 45.9876C38.5603 45.4247 39.2266 43.8854 39.2266 41.8521C39.2266 41.7372 39.2266 41.6224 39.2266 41.496C37.5609 42.3346 35.4817 42.7481 33.4024 42.7596V46.8836H33.1957V42.7596C31.1164 42.7481 29.0372 42.3231 27.3715 41.4845C27.3715 41.6109 27.3715 41.7258 27.3715 41.8406C27.3715 43.8854 28.0378 45.4132 29.3244 45.9761L29.3359 45.9876ZM27.1992 41.1629C27.3026 39.8533 27.7046 38.4748 28.3135 37.1537C28.0378 37.0274 27.7736 36.901 27.5323 36.7517C26.487 36.1543 25.7403 35.4651 25.3612 34.7414C24.6605 35.6718 24.2239 36.7517 24.1435 37.9464C24.3388 39.0147 25.4416 40.1405 27.0269 41.0595C27.0843 41.0939 27.1418 41.1284 27.1992 41.1514V41.1629ZM42.4891 37.9119C42.3972 36.7287 41.9721 35.6374 41.2599 34.7184C40.8923 35.4536 40.1686 36.1428 39.1232 36.7402C38.8705 36.8895 38.6063 37.0274 38.3191 37.1422C38.9279 38.4633 39.33 39.8418 39.4334 41.1514C39.5023 41.1169 39.5597 41.0825 39.6287 41.048C41.2139 40.129 42.3053 39.0032 42.4891 37.9004V37.9119ZM39.2266 41.2777C39.1347 39.9567 38.7441 38.5667 38.1238 37.2456C36.7223 37.8315 35.0681 38.1302 33.4139 38.1417V42.5758C35.4932 42.5643 37.5724 42.1278 39.2266 41.2892V41.2777ZM33.2072 42.5643V38.1302C31.553 38.1187 29.8988 37.82 28.4973 37.2227C27.877 38.5552 27.4864 39.9452 27.3945 41.2548C29.0487 42.1048 31.1164 42.5414 33.2072 42.5529V42.5643ZM28.4054 36.9584C28.9683 35.7867 29.7035 34.6609 30.5535 33.673C30.4272 33.6156 30.3123 33.5467 30.1859 33.4892C29.5541 33.1216 29.1291 32.6621 28.9568 32.1682C27.4864 32.731 26.2802 33.5811 25.4416 34.638C25.8666 35.3157 26.6363 35.9935 27.6357 36.5679C27.877 36.7057 28.1412 36.8436 28.4054 36.9584ZM41.1795 34.6265C40.3409 33.5696 39.1232 32.7196 37.6643 32.1567C37.492 32.6621 37.067 33.1101 36.4351 33.4777C36.3203 33.5467 36.2054 33.6041 36.079 33.6615C36.9291 34.6495 37.6643 35.7752 38.2387 36.9584C38.5144 36.8321 38.7671 36.7057 39.0198 36.5564C40.0192 35.982 40.7659 35.3042 41.191 34.615L41.1795 34.6265ZM38.0434 37.0503C37.4805 35.8671 36.7338 34.7414 35.8837 33.7649C35.1715 34.0636 34.31 34.2244 33.4139 34.2359V37.9234C35.0452 37.9234 36.6649 37.6247 38.0434 37.0389V37.0503ZM33.2072 37.9234V34.2359C32.3111 34.2244 31.4611 34.0636 30.7488 33.7649C29.8988 34.7414 29.1636 35.8671 28.5892 37.0503C29.9562 37.6247 31.5759 37.9234 33.2072 37.9349V37.9234ZM30.7144 33.4892C31.4496 32.6736 32.2537 31.9499 33.1153 31.3985C31.6793 31.4215 30.3468 31.6627 29.175 32.0763C29.3359 32.5243 29.7264 32.9493 30.3008 33.2824C30.4272 33.3514 30.565 33.4203 30.7029 33.4892H30.7144ZM29.1176 31.9039C30.2089 31.5019 31.4496 31.2606 32.7936 31.2147C31.8516 30.6978 30.9556 30.2612 30.163 30.0315C29.4737 30.468 29.0946 31.0309 29.0946 31.6168C29.0946 31.7087 29.0946 31.8006 29.1291 31.9039H29.1176ZM30.3468 29.9281C31.1394 30.1349 32.0125 30.5484 32.9659 31.0768C33.0463 31.1228 33.1153 31.1687 33.1957 31.2032H33.2072V29.2274C32.1273 29.2388 31.1164 29.4916 30.3468 29.9166V29.9281ZM33.4139 29.2274V31.2032H33.4369C33.5173 31.1573 33.5862 31.1113 33.6667 31.0768C34.6201 30.5484 35.4932 30.1349 36.2743 29.9281C35.5047 29.4916 34.4938 29.2503 33.4139 29.2388V29.2274ZM36.4581 30.0315C35.6655 30.2612 34.7695 30.6978 33.8275 31.2147C35.1715 31.2606 36.4007 31.5019 37.492 31.9039C37.515 31.812 37.5265 31.7201 37.5265 31.6168C37.5265 31.0309 37.1474 30.468 36.4581 30.0315ZM37.446 32.0877C36.2743 31.6742 34.9418 31.433 33.5173 31.41C34.3789 31.9614 35.183 32.6736 35.9182 33.5007C36.0561 33.4433 36.1939 33.3743 36.3203 33.2939C36.9061 32.9608 37.2967 32.5358 37.4575 32.0877H37.446ZM35.7229 33.5811C35.0222 32.8 34.241 32.1222 33.4139 31.5823V34.0062C34.2525 33.9947 35.0452 33.8453 35.7229 33.5811ZM33.2072 34.0062V31.5823C32.3915 32.1107 31.6104 32.8 30.9097 33.5811C31.5874 33.8453 32.3801 33.9947 33.2072 34.0062Z" fill="white"/>
+<defs>
+<filter id="filter0_f_187_8052" x="33.5601" y="48.9951" width="33.3033" height="14.4038" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="0.25" result="effect1_foregroundBlur_187_8052"/>
+</filter>
+<filter id="filter1_f_187_8052" x="27.8281" y="21.6752" width="22.3466" height="28.0211" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2.79777" result="effect1_foregroundBlur_187_8052"/>
+</filter>
+<linearGradient id="paint0_linear_187_8052" x1="40.7759" y1="45.363" x2="64.7091" y2="59.3735" gradientUnits="userSpaceOnUse">
+<stop/>
+<stop offset="1" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_187_8052" x1="27.367" y1="14.8221" x2="51.1557" y2="56.083" gradientUnits="userSpaceOnUse">
+<stop stop-color="#353431"/>
+<stop offset="0.01" stop-color="#D1CFC8"/>
+<stop offset="0.04" stop-color="#95938D"/>
+<stop offset="0.06" stop-color="#696762"/>
+<stop offset="0.08" stop-color="#4E4C47"/>
+<stop offset="0.09" stop-color="#44433E"/>
+<stop offset="0.22" stop-color="#44433E"/>
+<stop offset="0.3" stop-color="#C3C0B9"/>
+<stop offset="0.31" stop-color="#353431"/>
+<stop offset="0.33" stop-color="#353431"/>
+<stop offset="0.34" stop-color="#353431"/>
+<stop offset="0.35" stop-color="#D1CFC8"/>
+<stop offset="0.38" stop-color="#95938D"/>
+<stop offset="0.42" stop-color="#696762"/>
+<stop offset="0.44" stop-color="#4E4C47"/>
+<stop offset="0.45" stop-color="#44433E"/>
+<stop offset="0.9" stop-color="#44433E"/>
+<stop offset="0.99" stop-color="#353431"/>
+<stop offset="1" stop-color="#353431"/>
+</linearGradient>
+<linearGradient id="paint2_linear_187_8052" x1="46.9381" y1="37.3748" x2="47.0334" y2="32.7029" gradientUnits="userSpaceOnUse">
+<stop stop-color="#262523"/>
+<stop offset="0.08" stop-color="#262523"/>
+<stop offset="0.1" stop-color="#444340"/>
+<stop offset="0.14" stop-color="#817F7A"/>
+<stop offset="0.18" stop-color="#ADABA5"/>
+<stop offset="0.21" stop-color="#C8C6BF"/>
+<stop offset="0.23" stop-color="#D3D0C9"/>
+<stop offset="0.25" stop-color="#D3D0C9"/>
+<stop offset="0.37" stop-color="#262523"/>
+<stop offset="0.86" stop-color="#262523"/>
+<stop offset="0.88" stop-color="#444340"/>
+<stop offset="0.9" stop-color="#817F7A"/>
+<stop offset="0.93" stop-color="#ADABA5"/>
+<stop offset="0.95" stop-color="#C8C6BF"/>
+<stop offset="0.96" stop-color="#D3D0C9"/>
+<stop offset="0.99" stop-color="#262523"/>
+<stop offset="1" stop-color="#262523"/>
+</linearGradient>
+<radialGradient id="paint3_radial_187_8052" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(34.8682 36.1658) rotate(-150.58) scale(16.8484)">
+<stop offset="0.24" stop-color="white"/>
+<stop offset="0.28" stop-color="#F4F8FD"/>
+<stop offset="0.36" stop-color="#D7E6F9"/>
+<stop offset="0.46" stop-color="#A9CAF2"/>
+<stop offset="0.58" stop-color="#6AA3E8"/>
+<stop offset="0.65" stop-color="#438BE3"/>
+<stop offset="0.67" stop-color="#498EE3"/>
+<stop offset="0.69" stop-color="#5A99E6"/>
+<stop offset="0.72" stop-color="#76AAEA"/>
+<stop offset="0.75" stop-color="#9DC3F0"/>
+<stop offset="0.79" stop-color="#CFE1F7"/>
+<stop offset="0.81" stop-color="white"/>
+</radialGradient>
+</defs>
+</svg>
