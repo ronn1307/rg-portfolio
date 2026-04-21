@@ -476,8 +476,7 @@ const UI_SHOWCASE_VIDEOS = [
 ];
 
 const CAREER = [
-  { year: "Apr 2026–Present", title: "Principal Product Designer", org: "NOVA", note: "Promoted to Principal to own design strategy across NOVA's full product suite — POS, Handheld, and front-of-house lines. Driving conversion rate optimisation and task-completion efficiency across enterprise workflows. Leading 0→1 product design for Inventory Nova Edge, Horizontal Kiosk, and Employee Management modules — unlocking new revenue streams and strengthening the platform's enterprise value proposition." },
-  { year: "Feb 2025–Mar 2026", title: "Lead Product Designer", org: "NOVA", note: "Scaled team from 2 → 7 designers while directly driving $47K ARR + $1.3M ARR in first enterprise wins across 2,000+ locations. Led 0→1 white-label food ordering app, AI Campaigns (200% increase in campaign generation, 92 SUS, 62.5% faster creation), and Voice AI — contributing to ~40% of $900K seasonal ARR. Established design foundations across a complex multi-product ecosystem." },
+  { year: "Feb 2025–Present", title: "Lead Product Designer", org: "NOVA", note: "Led NOVA's product design team, scaling it from 2 to 7 designers while driving hiring, mentorship, design quality, and hands-on execution across products. Leading design across the product suite, driving conversion for POS, Handheld, and FOH, while leading 0→1 launches for Inventory Nova Edge, Horizontal Kiosk, and Employee Management. Led the design of NOVA's white-label food ordering mobile app from concept to enterprise scale, directly enabling NOVA's first enterprise wins ($47K ARR + $1.3M ARR) and a 2,000+ location enterprise sales pipeline. Led platform-level design for AI marketing modules, dark mode, and kiosk refresh — driving enterprise adoption, 200% growth in campaign creation, and contributing to ~70% of $900K seasonal ARR." },
   { year: "2023–2025", title: "Senior Product Designer", org: "Simpplr", note: "Drove 40% faster objective completion across Android & iOS by shipping Workplace Search + Smart Answers (AI). Lifted event clicks 28.85%, external calendar activation 13.58%, and CSAT 37.5% with a calendar-based RSVP experience. Built video analytics that increased native video creation ~38%. Won 1 team award and 4 individual awards." },
   { year: "2022–2023", title: "Senior Product Designer", org: "Khatabook", note: "Owned design and user research for transaction-heavy POS workflows across web and mobile, leading the discovery and launch of Khatabook Web's paid transactional features while scaling a cross-platform design system." },
   { year: "2021–2022", title: "Senior Product Designer", org: "Bharti Airtel", note: "Decreased recharge drop-offs from 27.5% → 12.75% in a $107M/mo revenue pipeline, lifting CSAT 12%. Designed Airtel Rewards driving ~25% revenue uplift in recharge and bill payments. Built Airtel Digital's Theseus design system for cross-platform consistency. Won 3 consecutive Digital Citizen Awards." },
@@ -8586,8 +8585,7 @@ const TIMELINE_ENTRIES = [
   { year: "2021", label: "2021", title: "Senior Product Designer", org: "Bharti Airtel", desc: "Decreased recharge drop-offs from 27.5% → 12.75% in a $107M/mo pipeline, lifting CSAT 12%. Designed Airtel Rewards driving ~25% revenue uplift. Won 3 consecutive Digital Citizen Awards.", tags: ["350M+ Users", "Recharges & Rewards", "3x Award Winner"] },
   { year: "2022", label: "2022", title: "Senior Product Designer", org: "Khatabook", desc: "Owned design and research for transaction-heavy POS workflows, leading the launch of Khatabook Web's paid transactional features while scaling a cross-platform design system.", tags: ["Fintech", "POS Design", "Design System"] },
   { year: "2023", label: "2023", title: "Senior Product Designer", org: "Simpplr", desc: "Drove 40% faster objective completion by shipping AI-powered Workplace Search + Smart Answers. Lifted event clicks 28.85% and CSAT 37.5%. Won 5 awards.", tags: ["AI Search", "Mobile UX", "Video Analytics", "5 Awards"] },
-  { year: "2025", label: "2025", title: "Lead Product Designer", org: "NOVA", desc: "Scaled team from 2 → 7 designers. Led 0→1 white-label food ordering app, AI Campaigns (200% increase, 92 SUS), and Voice AI — contributing to ~40% of $900K seasonal ARR.", tags: ["Team Building", "AI Campaigns", "Voice AI", "White-label App"] },
-  { year: "2026", label: "Now", title: "Principal Product Designer", org: "NOVA", desc: "Promoted to Principal to own design strategy across NOVA's full product suite. Driving conversion rate optimisation and 0→1 products — Inventory Nova Edge, Horizontal Kiosk, and Employee Management.", tags: ["Design Strategy", "0→1 Products", "Enterprise POS"], accent: true },
+  { year: "2025", label: "Now", title: "Lead Product Designer", org: "NOVA", desc: "Scaled team from 2 → 7 designers. Leading design across NOVA's full product suite — driving conversion for POS, Handheld, and FOH. Led 0→1 white-label food ordering app ($1.3M ARR), AI Campaigns (200% growth, 92 SUS), and Voice AI — contributing to ~70% of $900K seasonal ARR.", tags: ["Team Building", "AI Campaigns", "Voice AI", "White-label App", "0→1 Products"], accent: true },
 ];
 
 function CareerTimeline() {
@@ -9085,7 +9083,7 @@ function About() {
         </div>
         <div style={{ maxWidth: "680px" }}>
           <p style={{ fontSize: window.innerWidth <= 768 ? "15px" : "17px", color: t.textMuted, lineHeight: 1.7, marginBottom: window.innerWidth <= 768 ? "28px" : "40px" }}>
-            I'm a Principal Product Designer with 10+ years of experience shipping products that
+            I'm a Staff/Principal-level Product Designer with 10+ years of experience shipping products that
             people actually use — at Airtel (350M+ subscribers), Simpplr (enterprise AI), PayU (fintech),
             and now NOVA (restaurant tech). I started as a visual designer, ran my own agency at 20,
             studied UX research at the University of York, and evolved into a full-stack product designer
@@ -9957,7 +9955,7 @@ function BlogPost({ slug }) {
           <div>
             <div style={{ fontSize: "16px", fontWeight: 500, color: t.text, marginBottom: "4px" }}>Written by Ron</div>
             <div style={{ fontSize: "14px", color: t.textMuted, lineHeight: 1.5 }}>
-              Principal Product Designer at NOVA. I write about product design, systems thinking, and building teams.
+              Lead Product Designer at NOVA. I write about product design, systems thinking, and building teams.
             </div>
           </div>
         </div>
