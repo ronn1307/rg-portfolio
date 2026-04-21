@@ -414,6 +414,7 @@ const UI_SHOWCASE_VIDEOS = [
     role: "Lead Product Designer",
     tags: ["Enterprise", "Data Viz", "Interactive Map"],
     videoSrc: "https://player.vimeo.com/video/1180154074?background=1&autoplay=1&loop=1&muted=1",
+    shortDescription: "A real-time executive dashboard for enterprise restaurant chains — live sales data on an interactive US map, with a companion mobile remote for drill-down navigation across states and stores.",
     description: "A real-time executive dashboard built for CEO/CTO/COO personas across enterprise restaurant chains. The interface surfaces live sales data plotted on an interactive US map, allowing executives to monitor the health of their entire operation at a glance. Users navigate between states via the NOVA Edge Pro companion mobile app — a remote-style UI lets them tap into any state to zoom in and drill down. The zoomed state view highlights above-average and below-average performers, with a ranked list sorted by sales. Directional arrows on the mobile app allow fluid state-to-state navigation without leaving the zoomed context.",
     highlights: [
       "Live sales data rendered on interactive US map",
@@ -431,6 +432,7 @@ const UI_SHOWCASE_VIDEOS = [
     role: "Lead Product Designer",
     tags: ["Voice AI", "Analytics", "Dashboard"],
     videoSrc: "https://player.vimeo.com/video/1180153304?background=1&autoplay=1&loop=1&muted=1",
+    shortDescription: "Analytics dashboard for NOVA Echo's voice AI drive-thru system — tracking revenue, upsell rates, CSAT, and individual order transcripts for non-technical restaurant managers.",
     description: "An advanced analytics dashboard for NOVA Echo — the voice AI system deployed in drive-thru POS terminals. The dashboard gives restaurant managers end-to-end visibility into AI-driven ordering performance: revenue, order volume, upsell conversion rate, and CSAT scores. Managers can track the AI system's efficiency hour-by-hour across the day, access individual order transcripts, and flag moments where an agent handover occurred. The design balances information density with clarity, making complex AI performance data actionable for non-technical operators.",
     highlights: [
       "Revenue, orders, upsell rate & CSAT at a glance",
@@ -448,6 +450,7 @@ const UI_SHOWCASE_VIDEOS = [
     role: "Lead Product Designer",
     tags: ["Mobile", "Food Tech", "White-label", "Interaction Design"],
     videoSrc: "https://player.vimeo.com/video/1180168536?background=1&autoplay=1&loop=1&muted=1",
+    shortDescription: "A swipe-to-discover interaction for NOVA's white-label food ordering app — reducing decision fatigue and surfacing items through discovery-first browsing. Became a key differentiator in enterprise sales demos.",
     description: "A swipe-to-discover interaction pattern designed for NOVA's white-label food ordering app. Instead of presenting unfamiliar restaurant menus as static lists, this interaction lets users swipe through menu items in a discovery-first browsing mode — reducing decision fatigue for first-time visitors and surfacing underperforming items for restaurant operators. Built on a hardest-use-case-first philosophy: the system was designed to handle complex multi-category menus with nested modifiers, combos, and add-ons, ensuring simpler QSR menus work automatically with zero re-design. The interaction became a key differentiator in enterprise sales demos.",
     highlights: [
       "Discovery-first browsing for unfamiliar menus",
@@ -465,12 +468,31 @@ const UI_SHOWCASE_VIDEOS = [
     role: "Lead Product Designer",
     tags: ["AI", "Generative", "Marketing", "Mobile"],
     videoSrc: "https://player.vimeo.com/video/1180168549?background=1&autoplay=1&loop=1&muted=1",
+    shortDescription: "AI-powered creative studio in NOVA Edge Pro — generate on-brand campaigns from a single prompt, circle-to-edit, multi-channel preview. 200% increase in campaign generation, 92 SUS in beta.",
     description: "An AI-powered creative studio built into NOVA Edge Pro that lets restaurant operators generate on-brand marketing campaigns with a single prompt. The system pulls live menu data, item performance, and sales history from the RMS to generate contextually relevant posters, videos, and copy. Operators can use circle-to-edit for localized AI adjustments without full regeneration, swap brand palettes for instant visual variations, and preview across Instagram, Facebook, email, and SMS before launching — all from one screen. Shipped with a complete dark mode token architecture in 6 weeks as the sole IC designer. The feature drove a 200% increase in campaign generation and scored 92 SUS in beta, while addressing a market gap where restaurants spend upwards of $80K/year on freelance designers.",
     highlights: [
       "62.5% faster campaign creation with circle-to-edit",
       "RMS-connected prompts pulling live menu & sales data",
       "Multi-channel preview: Instagram, Facebook, email, SMS",
       "92 SUS score in beta, 200% increase in campaign generation",
+    ],
+  },
+  {
+    id: 5,
+    title: "Mobile App Analytics Dashboard",
+    subtitle: "Enterprise Analytics — NOVA",
+    year: "2025",
+    platform: "Web",
+    role: "Lead Product Designer",
+    tags: ["Enterprise", "Analytics", "Data Viz", "Dashboard"],
+    videoSrc: "https://player.vimeo.com/video/1185234197?background=1&autoplay=1&loop=1&muted=1",
+    shortDescription: "Enterprise mobile app analytics dashboard — Z-pattern layout with DAU/MAU trends, revenue, loyalty, gift cards, wallet and referral widgets. Low cognitive load, high information density.",
+    description: "A v1 enterprise analytics dashboard that goes live the moment a restaurant launches their NOVA-powered mobile app. Designed with a Z-pattern information hierarchy that guides the eye naturally from high-level KPIs to granular breakdowns — keeping cognitive load remarkably low despite the density of data. The dashboard surfaces DAU/MAU trends, user activity snapshots, app-driven orders, and revenue metrics at a glance, followed by dedicated widgets for loyalty program performance, gift card usage, wallet adoption, and referral tracking. Every widget is purpose-built to give operators instant clarity on what's working and where to double down — without needing a data team to interpret it.",
+    highlights: [
+      "Z-pattern layout optimised for natural eye movement",
+      "DAU/MAU trends, user activity & revenue at a glance",
+      "Loyalty, gift cards, wallet & referral tracking widgets",
+      "Low cognitive load despite high information density",
     ],
   },
 ];
@@ -7989,6 +8011,7 @@ function ShowcaseVideoModal({ item, onClose }) {
   const { reduced } = useMotion();
   const iframeRef = useRef(null);
   const [muted, setMuted] = useState(true);
+  const isMobile = typeof window !== "undefined" && window.innerWidth <= 768;
 
   useEffect(() => {
     const onKey = (e) => { if (e.key === "Escape") onClose(); };
@@ -8024,51 +8047,60 @@ function ShowcaseVideoModal({ item, onClose }) {
         position: "fixed", inset: 0, zIndex: 3000,
         background: isDark ? "rgba(0,0,0,0.9)" : "rgba(0,0,0,0.75)",
         backdropFilter: "blur(20px)", WebkitBackdropFilter: "blur(20px)",
-        display: "flex", alignItems: "center", justifyContent: "center",
-        padding: "16px 12px",
+        display: "flex",
+        alignItems: "center",
+        justifyContent: "center",
+        padding: isMobile ? "0" : "16px 12px",
+        overflowY: isMobile ? "auto" : "hidden",
       }}
     >
+      {/* Close button — fixed top-right on mobile */}
+      <button
+        onClick={onClose}
+        style={{
+          position: "fixed",
+          top: isMobile ? "32px" : "20px",
+          right: isMobile ? "32px" : "20px",
+          width: "36px", height: "36px", borderRadius: "50%",
+          border: "1px solid rgba(255,255,255,0.15)",
+          background: "rgba(0,0,0,0.5)",
+          backdropFilter: "blur(12px)",
+          WebkitBackdropFilter: "blur(12px)",
+          cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center",
+          color: "#fff", fontSize: "16px",
+          transition: reduced ? "none" : "background 0.2s ease",
+          zIndex: 3001,
+        }}
+        onMouseEnter={(e) => e.currentTarget.style.background = "rgba(255,255,255,0.15)"}
+        onMouseLeave={(e) => e.currentTarget.style.background = "rgba(0,0,0,0.5)"}
+      >
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+          <line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" />
+        </svg>
+      </button>
+
       <div
         onClick={(e) => e.stopPropagation()}
         style={{
           width: "100%",
-          maxWidth: "1200px",
-          maxHeight: "calc(100vh - 32px)",
+          maxWidth: isMobile ? "100%" : "1200px",
+          maxHeight: isMobile ? "none" : "calc(100vh - 32px)",
           display: "flex",
           flexDirection: "column",
           gap: "0",
+          padding: isMobile ? "0" : undefined,
         }}
       >
-        {/* Close button row */}
-        <div style={{ display: "flex", justifyContent: "flex-end", marginBottom: "12px" }}>
-          <button
-            onClick={onClose}
-            style={{
-              width: "36px", height: "36px", borderRadius: "50%",
-              border: "1px solid rgba(255,255,255,0.15)",
-              background: "rgba(255,255,255,0.08)",
-              cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center",
-              color: "#fff", fontSize: "16px",
-              transition: reduced ? "none" : "background 0.2s ease",
-            }}
-            onMouseEnter={(e) => e.currentTarget.style.background = "rgba(255,255,255,0.15)"}
-            onMouseLeave={(e) => e.currentTarget.style.background = "rgba(255,255,255,0.08)"}
-          >
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
-              <line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" />
-            </svg>
-          </button>
-        </div>
-
-        {/* Video container — full width, 16:9, max height fills screen */}
+        {/* Video container — full width, 16:9 */}
         <div style={{
           position: "relative",
           width: "100%",
           aspectRatio: "16/9",
-          borderRadius: "12px",
+          borderRadius: isMobile ? "0" : "12px",
           overflow: "hidden",
           background: "#000",
-          boxShadow: "0 24px 80px rgba(0,0,0,0.5)",
+          boxShadow: isMobile ? "none" : "0 24px 80px rgba(0,0,0,0.5)",
+          marginTop: isMobile ? "0" : undefined,
         }}>
           <iframe
             ref={iframeRef}
@@ -8113,24 +8145,61 @@ function ShowcaseVideoModal({ item, onClose }) {
           </button>
         </div>
 
-        {/* Title bar below video */}
-        <div style={{
-          display: "flex",
-          alignItems: "center",
-          justifyContent: "space-between",
-          marginTop: "16px",
-          flexWrap: "wrap",
-          gap: "8px",
-        }}>
-          <div>
-            <h3 style={{ fontSize: "18px", fontWeight: 500, color: "#fff", margin: 0, lineHeight: 1.3 }}>
-              {item.title}
-            </h3>
-            <p style={{ fontSize: "13px", color: "rgba(255,255,255,0.5)", margin: "4px 0 0 0" }}>
-              {item.subtitle}
-            </p>
+        {/* Details — below video on desktop, fixed to bottom on mobile */}
+        {!isMobile && (
+          <div style={{
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "space-between",
+            marginTop: "16px",
+            flexWrap: "wrap",
+            gap: "8px",
+          }}>
+            <div>
+              <h3 style={{ fontSize: "18px", fontWeight: 500, color: "#fff", margin: 0, lineHeight: 1.3 }}>
+                {item.title}
+              </h3>
+              <p style={{ fontSize: "13px", color: "rgba(255,255,255,0.5)", margin: "4px 0 0 0" }}>
+                {item.subtitle}
+              </p>
+            </div>
+            <div style={{ display: "flex", gap: "8px", flexWrap: "wrap" }}>
+              {item.tags.map((tag) => (
+                <span key={tag} style={{
+                  fontSize: "11px",
+                  padding: "4px 10px",
+                  borderRadius: "100px",
+                  background: "rgba(255,255,255,0.08)",
+                  color: "rgba(255,255,255,0.6)",
+                  border: "1px solid rgba(255,255,255,0.08)",
+                }}>
+                  {tag}
+                </span>
+              ))}
+            </div>
           </div>
-          <div style={{ display: "flex", gap: "8px", flexWrap: "wrap" }}>
+        )}
+      </div>
+
+      {/* Mobile: title + chips pinned to bottom */}
+      {isMobile && (
+        <div
+          onClick={(e) => e.stopPropagation()}
+          style={{
+            position: "fixed",
+            bottom: "52px",
+            left: "20px",
+            right: "20px",
+            zIndex: 3001,
+          }}
+        >
+          <h3 style={{ fontSize: "18px", fontWeight: 500, color: "#fff", margin: 0, lineHeight: 1.3 }}>
+            {item.title}
+          </h3>
+          <p style={{ fontSize: "12px", color: "rgba(255,255,255,0.5)", margin: "4px 0 12px 0" }}>
+            {item.subtitle}
+          </p>
+          <div style={{ display: "flex", gap: "6px", flexWrap: "wrap" }}>
             {item.tags.map((tag) => (
               <span key={tag} style={{
                 fontSize: "11px",
@@ -8145,7 +8214,7 @@ function ShowcaseVideoModal({ item, onClose }) {
             ))}
           </div>
         </div>
-      </div>
+      )}
     </div>,
     document.body
   );
@@ -8230,9 +8299,9 @@ function UIShowcase() {
                     flexWrap: "wrap",
                   }}>
                     <span>{item.year}</span>
-                    <span style={{ opacity: 0.3 }}>·</span>
+                    <span style={{ opacity: isDark ? 0.5 : 0.4, color: isDark ? "#fff" : t.textDim }}>·</span>
                     <span>{item.platform}</span>
-                    <span style={{ opacity: 0.3 }}>·</span>
+                    <span style={{ opacity: isDark ? 0.5 : 0.4, color: isDark ? "#fff" : t.textDim }}>·</span>
                     <span style={{ color: t.accent }}>{item.role}</span>
                   </div>
 
@@ -8272,7 +8341,7 @@ function UIShowcase() {
                     fontWeight: 300,
                     margin: "0 0 28px 0",
                   }}>
-                    {item.description}
+                    {isMobile && item.shortDescription ? item.shortDescription : item.description}
                   </p>
 
                   {/* Highlights */}
